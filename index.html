@@ -212,7 +212,6 @@
               <ul class="mt-5 space-y-3 border-t border-white/15 pt-5 text-sm text-slate-300">
                 <li class="flex gap-3"><i data-lucide="award" class="mt-0.5 h-4 w-4 shrink-0 text-gold-500"></i> Thế mạnh: thiết lập công ty, nhà máy, đơn vị mới và đưa vào vận hành ổn định</li>
                 <li class="flex gap-3"><i data-lucide="building-2" class="mt-0.5 h-4 w-4 shrink-0 text-gold-500"></i> Từng làm việc tại các tập đoàn như Sun Group, Biti's</li>
-                <li class="flex gap-3"><i data-lucide="briefcase" class="mt-0.5 h-4 w-4 shrink-0 text-gold-500"></i> Hiện là Trưởng Ban Pháp chế tại doanh nghiệp sản xuất, xuất khẩu</li>
                 <li class="flex gap-3"><i data-lucide="map-pin" class="mt-0.5 h-4 w-4 shrink-0 text-gold-500"></i> Sinh sống tại phường Lào Cai, tỉnh Lào Cai</li>
               </ul>
             </div>
@@ -226,7 +225,7 @@
             <p>
               Tôi tốt nghiệp Đại học Luật Hà Nội năm 2001 và có 25 năm làm công tác pháp lý, đầu tư,
               nhân sự, quản lý điều hành tại doanh nghiệp, trong đó có thời gian công tác tại các tập đoàn
-              như Sun Group, Biti's. Hiện tôi là Trưởng Ban Pháp chế của một doanh nghiệp sản xuất, xuất khẩu.
+              như Sun Group, Biti's.
             </p>
             <p>
               Thế mạnh của tôi là thiết lập công ty, nhà máy, đơn vị mới: từ pháp lý, tổ chức bộ máy,
@@ -794,9 +793,13 @@
           <div class="mt-8 border border-slate-200 bg-white">
             <!-- Ảnh phong cảnh Lào Cai phía trên bản đồ (lấy từ CONFIG.anhLienHe) -->
             <img id="anh-lien-he" alt="Cây cầu treo cờ ở Lào Cai lúc chiều muộn, phía xa là dãy núi" class="block w-full" style="display:none">
-            <iframe id="ban-do" title="Bản đồ khu vực đường Triệu Quang Phục, phường Lào Cai"
-                    src="https://www.google.com/maps?q=Tri%E1%BB%87u%20Quang%20Ph%E1%BB%A5c%2C%20ph%C6%B0%E1%BB%9Dng%20L%C3%A0o%20Cai%2C%20L%C3%A0o%20Cai&z=16&output=embed"
+            <iframe id="ban-do" title="Bản đồ vị trí số 091 đường Triệu Quang Phục, phường Lào Cai"
+                    src="https://www.google.com/maps?q=22.4996907,103.9726568&z=18&output=embed"
                     class="block h-72 w-full" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe>
+            <a id="chi-duong" href="https://www.google.com/maps/dir/?api=1&destination=22.4996907,103.9726568" target="_blank" rel="noopener"
+               class="flex items-center justify-center gap-2 border-t border-slate-200 px-5 py-3 text-sm font-semibold text-navy-900 hover:bg-navy-900 hover:text-white">
+              <i data-lucide="navigation" class="h-4 w-4"></i> Chỉ đường bằng Google Maps
+            </a>
           </div>
         </div>
 
@@ -982,7 +985,7 @@
         'Điện thoại, Zalo: ngoài giờ hành chính và Chủ nhật',
         'Gặp trực tiếp: theo lịch hẹn trước'
       ],
-      banDo: 'Triệu Quang Phục, phường Lào Cai, Lào Cai',           // Địa điểm hiển thị trên bản đồ
+      banDo: '22.4996907,103.9726568',   // Tọa độ nhà số 091 Triệu Quang Phục (anh Phương gửi 26/11/2026).           // Địa điểm hiển thị trên bản đồ
       anhChanDung: ANH.chanDung,   // Ảnh chân dung ở phần Giới thiệu. Muốn đổi: thay bằng đường dẫn ảnh, ví dụ 'anh-chan-dung.jpg'.
       anhMoDau: ANH.moDau,         // Ảnh ở phần mở đầu (chỉ hiện trên máy tính). Để '' thì không hiện ảnh.
       anhLienHe: ANH.lienHe,       // Ảnh phong cảnh phía trên bản đồ ở phần Liên hệ. Để '' thì không hiện.
@@ -1019,7 +1022,9 @@
       });
 
       document.getElementById('ban-do').src =
-        'https://www.google.com/maps?q=' + encodeURIComponent(CONFIG.banDo) + '&z=16&output=embed';
+        'https://www.google.com/maps?q=' + encodeURIComponent(CONFIG.banDo) + '&z=18&output=embed';
+      document.getElementById('chi-duong').href =
+        'https://www.google.com/maps/dir/?api=1&destination=' + encodeURIComponent(CONFIG.banDo);
 
       if (CONFIG.anhChanDung) {
         const anh = document.getElementById('anh-gioi-thieu');
