@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+{% include dau-trang.html %}
+</head>
+<body class="bg-paper font-sans text-navy-700 antialiased">
+  <a href="#noi-dung" class="sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[60] focus:bg-white focus:px-4 focus:py-2 focus:text-navy-900">Bỏ qua, tới nội dung chính</a>
+{% include thanh-dieu-huong.html %}
+  <main id="noi-dung">
+{{ content }}
+  </main>
+{% include chan-trang.html %}
+</body>
+</html>

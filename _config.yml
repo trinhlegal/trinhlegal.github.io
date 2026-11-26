@@ -1,0 +1,37 @@
+# Cấu hình Jekyll cho trinhlegal.com (GitHub Pages tự dựng trang từ tệp này).
+# Bài viết chuyên mục "Gỡ rối pháp lý" đặt trong thư mục _posts, mỗi bài một tệp .md.
+
+title: "Trịnh Nguyễn Phương | Hỗ trợ pháp lý tại Lào Cai"
+description: "Hỗ trợ pháp lý về đất đai, thừa kế, hôn nhân gia đình, lao động, đăng ký kinh doanh và dự án đầu tư tại tỉnh Lào Cai."
+url: "https://trinhlegal.com"
+baseurl: ""
+lang: vi_VN
+locale: vi_VN
+timezone: Asia/Ho_Chi_Minh
+
+author:
+  name: "Trịnh Nguyễn Phương"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  hard_wrap: false
+
+# Địa chỉ bài viết: trinhlegal.com/go-roi-phap-ly/ten-bai/
+permalink: /go-roi-phap-ly/:title/
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: bai-viet
+
+exclude:
+  - README.md
+  - "*.py"

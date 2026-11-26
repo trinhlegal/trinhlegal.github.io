@@ -1,0 +1,70 @@
+---
+layout: trang
+title: "Gỡ rối pháp lý"
+description: "Vướng mắc pháp lý thường gặp về đất đai, thừa kế, hôn nhân gia đình, lao động, đăng ký kinh doanh, dự án đầu tư và cách xử lý từng bước, căn cứ văn bản đang có hiệu lực."
+---
+<section class="bg-navy-900 text-white">
+  <div class="mx-auto max-w-6xl px-5 py-14 sm:py-16">
+    <p class="text-sm font-semibold uppercase tracking-wider text-gold-500">Chuyên mục</p>
+    <h1 class="mt-3 font-display text-4xl font-bold sm:text-5xl">Gỡ rối pháp lý</h1>
+    <p class="mt-5 max-w-2xl text-lg leading-relaxed text-slate-300">
+      Mỗi bài bắt đầu từ một vướng mắc có thật mà người dân, doanh nghiệp tại Lào Cai hay gặp, chỉ rõ căn cứ
+      pháp luật đang có hiệu lực và cách xử lý từng bước.
+    </p>
+  </div>
+</section>
+
+<section class="mx-auto max-w-6xl px-5 py-12 sm:py-14">
+  <!-- Lọc theo lĩnh vực -->
+  <div class="flex flex-wrap gap-2" role="group" aria-label="Lọc bài theo lĩnh vực">
+    {% assign cac_mang = "Tất cả,Đất đai,Thừa kế,Hôn nhân gia đình,Lao động,Đăng ký kinh doanh,Dự án đầu tư" | split: "," %}
+    {% for m in cac_mang %}
+    <button type="button" data-loc="{{ m }}"
+            class="nut-loc border border-slate-300 bg-white px-4 py-2 text-sm font-medium text-navy-800 hover:border-gold-500 {% if forloop.first %}dang-chon{% endif %}">{{ m }}</button>
+    {% endfor %}
+  </div>
+
+  <div id="danh-sach" class="mt-8 grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+    {% for bai in site.posts %}
+    <a href="{{ bai.url }}" data-mang="{{ bai.mang }}"
+       class="the-bai group flex flex-col border border-slate-200 bg-white p-6 transition hover:-translate-y-0.5 hover:border-gold-500 hover:shadow-lg">
+      <p class="text-xs font-semibold uppercase tracking-wider text-gold-600">{{ bai.mang }}</p>
+      <h2 class="mt-3 font-display text-xl font-bold leading-snug text-navy-900 group-hover:text-gold-600">{{ bai.title }}</h2>
+      <p class="mt-3 flex-1 text-[0.95rem] leading-relaxed">{{ bai.description }}</p>
+      <p class="mt-5 flex items-center justify-between text-sm text-slate-500">
+        <span>{{ bai.date | date: "%d/%m/%Y" }}</span>
+        <span class="font-semibold text-gold-600">Đọc bài →</span>
+      </p>
+    </a>
+    {% endfor %}
+  </div>
+
+  <p id="khong-co-bai" class="mt-8 hidden border border-dashed border-slate-300 bg-white p-6 text-center text-slate-500">
+    Lĩnh vực này đang được biên soạn. Quý khách cần hỏi ngay, vui lòng nhắn Zalo
+    <a href="https://zalo.me/0903228196" class="font-semibold text-gold-600">0903 228 196</a>.
+  </p>
+</section>
+
+<style>
+  .nut-loc.dang-chon { background: #0F172A; border-color: #0F172A; color: #fff; }
+</style>
+<script>
+  (function () {
+    var nut = document.querySelectorAll('.nut-loc');
+    var the = document.querySelectorAll('.the-bai');
+    var trong = document.getElementById('khong-co-bai');
+    nut.forEach(function (n) {
+      n.addEventListener('click', function () {
+        nut.forEach(function (x) { x.classList.remove('dang-chon'); });
+        n.classList.add('dang-chon');
+        var loc = n.dataset.loc, dem = 0;
+        the.forEach(function (t) {
+          var hien = (loc === 'Tất cả' || t.dataset.mang === loc);
+          t.style.display = hien ? '' : 'none';
+          if (hien) dem++;
+        });
+        trong.classList.toggle('hidden', dem > 0);
+      });
+    });
+  })();
+</script>

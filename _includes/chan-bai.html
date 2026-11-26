@@ -1,0 +1,31 @@
+{% comment %}
+  Chân bài gắn tự động ở cuối mỗi bài. Câu mở đầu chọn theo page.nhom:
+  ca-nhan (mặc định), doanh-nghiep, lao-dong.
+{% endcomment %}
+{% if page.nhom == "doanh-nghiep" %}
+  {% assign mo_dau = "Rà soát hồ sơ đăng ký kinh doanh, thủ tục dự án để bảo đảm tiến độ đầu tư và vận hành." %}
+{% elsif page.nhom == "lao-dong" %}
+  {% assign mo_dau = "Đề xuất phương án xử lý tranh chấp và nhân sự sát thực tế, tiết kiệm chi phí." %}
+{% else %}
+  {% assign mo_dau = "Hướng dẫn kiểm tra thực tế, làm đúng quy định và tránh đi lại nhiều lần cho các vấn đề đất đai, thừa kế, hôn nhân." %}
+{% endif %}
+<aside class="mt-12 border border-slate-200 bg-white" aria-label="Thông tin liên hệ">
+  <div class="border-l-4 border-gold-500 p-6 sm:p-7">
+    <p class="text-[0.95rem] text-navy-800">{{ mo_dau }}</p>
+    <p class="mt-4 font-display text-xl font-bold text-navy-900">Trịnh Nguyễn Phương, hỗ trợ pháp lý tại Lào Cai</p>
+    <ul class="mt-4 space-y-2 text-[0.95rem] leading-relaxed">
+      <li><span class="font-semibold text-navy-900">Nền tảng:</span> Tốt nghiệp Đại học Luật Hà Nội năm 2001, 25 năm kinh nghiệm thực tiễn, từng làm việc tại các tập đoàn như Sun Group, Biti's.</li>
+      <li><span class="font-semibold text-navy-900">Lĩnh vực:</span> Đất đai, nhà ở, thừa kế, hôn nhân gia đình, tranh chấp lao động, đăng ký kinh doanh và dự án đầu tư.</li>
+      <li><span class="font-semibold text-navy-900">Liên hệ:</span> Điện thoại, Zalo <a href="tel:0903228196" class="font-semibold text-gold-600 hover:underline">0903 228 196</a> (trao đổi ban đầu miễn phí, hỗ trợ ngoài giờ và Chủ nhật). Email <a href="mailto:trinhphuongsmc@gmail.com" class="text-gold-600 hover:underline">trinhphuongsmc@gmail.com</a>.</li>
+      <li><span class="font-semibold text-navy-900">Địa chỉ:</span> Số 091 đường Triệu Quang Phục, phường Lào Cai, tỉnh Lào Cai.</li>
+      <li><span class="font-semibold text-navy-900">Trực tuyến:</span> trinhlegal.com, Fanpage <a href="https://www.facebook.com/profile.php?id=61597118723856" target="_blank" rel="noopener" class="text-gold-600 hover:underline">Mr Phương - Hỗ trợ pháp lý Lào Cai</a>.</li>
+    </ul>
+    <div class="mt-6 flex flex-col gap-3 sm:flex-row">
+      <a href="https://zalo.me/0903228196" target="_blank" rel="noopener" class="inline-flex items-center justify-center gap-2 bg-[#0068FF] px-6 py-3 font-semibold text-white hover:bg-navy-900">Gửi giấy tờ qua Zalo</a>
+      <a href="tel:0903228196" class="inline-flex items-center justify-center gap-2 bg-gold-600 px-6 py-3 font-semibold text-white hover:bg-navy-900"><i data-lucide="phone" class="h-5 w-5"></i> Gọi 0903 228 196</a>
+    </div>
+    <p class="mt-6 border-t border-slate-200 pt-4 text-sm leading-relaxed text-slate-500">
+      Lưu ý minh bạch: hoạt động hỗ trợ pháp lý độc lập, không phải tổ chức hành nghề luật sư. Với vụ việc cần tham gia tố tụng tại Tòa án, tôi kết nối luật sư phù hợp.
+    </p>
+  </div>
+</aside>
