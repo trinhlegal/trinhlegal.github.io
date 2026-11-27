@@ -30,7 +30,7 @@ Anh hỏi: có phải đổi loại đất không, nên góp đất vào công t
 - **Luật Xây dựng số 135/2025/QH15**, khoản 1 Điều 53: UBND xã, phường cấp giấy phép xây dựng công trình cấp III, cấp IV. **Thông tư 34/2026/TT-BXD** về cấp công trình xây dựng (hiệu lực 01/7/2026).
 - **Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ số 55/2024/QH15** (đã được sửa đổi, bổ sung); **Nghị định 105/2025/NĐ-CP**, Phụ lục III mục 7.1: khách sạn cao từ 7 tầng trở lên hoặc có tổng diện tích sàn từ 3.000 m² trở lên mới thuộc diện thẩm định thiết kế về PCCC.
 - **Luật Bảo vệ môi trường số 72/2020/QH14** (đã được sửa đổi, bổ sung), Điều 49: đăng ký môi trường tại UBND cấp xã; **Nghị quyết 66.19/2026/NQ-CP** ngày 18/5/2026 về cắt giảm, đơn giản hóa thủ tục hành chính lĩnh vực nông nghiệp và môi trường (Phụ lục IX): dự án chỉ phát sinh nước thải sinh hoạt thực hiện đăng ký môi trường, không phải xin giấy phép môi trường.
-- **Nghị định 96/2016/NĐ-CP** về điều kiện an ninh, trật tự (sửa đổi, bổ sung bởi Nghị định 56/2023/NĐ-CP, Nghị định 58/2026/NĐ-CP, Nghị định 392/2026/NĐ-CP), Điều 24: Công an cấp tỉnh cấp Giấy chứng nhận cho cơ sở kinh doanh dịch vụ lưu trú từ 30 phòng cho thuê trở lên.
+- **Nghị định 96/2016/NĐ-CP** về điều kiện an ninh, trật tự (sửa đổi, bổ sung bởi Nghị định 56/2023/NĐ-CP, Nghị định 58/2026/NĐ-CP, Nghị định 392/2026/NĐ-CP có hiệu lực từ 15/11/2026), Điều 24: Công an cấp xã cấp Giấy chứng nhận cho cơ sở kinh doanh dịch vụ lưu trú từ 29 phòng trở xuống (khoản 3 Điều 24 sửa đổi bởi Điều 9 Nghị định 392/2026/NĐ-CP); từ 30 phòng trở lên do Công an cấp tỉnh cấp.
 - **Luật Du lịch 2017**, Điều 49 (điều kiện kinh doanh dịch vụ lưu trú du lịch), Điều 50 (xếp hạng cơ sở lưu trú du lịch).
 
 ## Việc thứ nhất: giữ đất ở hay đổi sang đất thương mại, dịch vụ
@@ -100,10 +100,10 @@ Anh hỏi: có phải đổi loại đất không, nên góp đất vào công t
 
 ### 4. Giấy chứng nhận đủ điều kiện về an ninh, trật tự
 
-- **Nơi nộp:** **Công an tỉnh** (Phòng Cảnh sát quản lý hành chính về trật tự xã hội). Theo Điều 24 Nghị định 96/2016/NĐ-CP đã sửa đổi, cơ sở kinh doanh dịch vụ lưu trú từ 30 phòng cho thuê trở lên do Công an cấp tỉnh cấp; dưới 30 phòng do Công an cấp xã cấp. Khách sạn 52 phòng thuộc thẩm quyền Công an tỉnh. Hồ sơ có thể nộp trực tuyến qua Cổng dịch vụ công.
+- **Nơi nộp:** **Công an tỉnh** (Phòng Cảnh sát quản lý hành chính về trật tự xã hội). Theo khoản 3 Điều 24 Nghị định 96/2016/NĐ-CP (sửa đổi bởi Điều 9 Nghị định 392/2026/NĐ-CP), Công an cấp xã chỉ cấp cho cơ sở lưu trú từ 29 phòng trở xuống; từ 30 phòng trở lên thuộc Công an cấp tỉnh. Khách sạn 52 phòng thuộc thẩm quyền Công an tỉnh. Hồ sơ có thể nộp trực tuyến qua Cổng dịch vụ công.
 - **Hồ sơ:** văn bản đề nghị theo mẫu; bản sao giấy chứng nhận đăng ký doanh nghiệp có ngành nghề lưu trú; tài liệu về bảo đảm điều kiện PCCC; thông tin của người chịu trách nhiệm về an ninh, trật tự.
 - **Thời hạn:** không quá 4 ngày làm việc kể từ khi nhận đủ hồ sơ.
-- **Khi hoạt động:** trong 05 ngày kể từ ngày bắt đầu kinh doanh, gửi thông báo kèm bản sao Giấy chứng nhận cho Công an phường nơi đặt khách sạn; kiểm tra giấy tờ tùy thân của khách và thông báo lưu trú đúng quy định.
+- **Khi hoạt động:** kiểm tra giấy tờ tùy thân của khách theo danh mục tại Nghị định 392/2026/NĐ-CP và thông báo lưu trú đúng quy định.
 
 ### 5. Công nhận hạng 3 sao (nếu muốn)
 
