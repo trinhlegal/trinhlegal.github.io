@@ -65,16 +65,17 @@ Với quy mô 15 đến 20 tỷ đồng, **nên đăng ký sang đất thương 
 - **Bước 3. Ký hợp đồng góp vốn, thuê hoặc chuyển nhượng** với công ty, công chứng và đăng ký sang tên (nếu góp vốn hoặc bán). Đất là tài sản chung vợ chồng thì cả hai cùng ký.
 - **Bước 4. Thiết kế theo tiêu chuẩn 3 sao ngay từ đầu.** Diện tích phòng, sảnh, nhà hàng, thang máy, chỗ đỗ xe phải đáp ứng tiêu chuẩn quốc gia về xếp hạng khách sạn hiện hành. Thiết kế thiếu tiêu chí thì sau khi xây xong rất khó sửa để được công nhận 3 sao.
 - **Bước 5. Thẩm định thiết kế về PCCC** trước khi xin giấy phép xây dựng (xem chi tiết ở phần điều kiện hoạt động bên dưới).
-- **Bước 6. Xin giấy phép xây dựng.** Công trình cấp III, cấp IV nộp tại UBND phường. Khách sạn 6 tầng và 1 tum thường được xác định là cấp III, nhưng cấp công trình còn phụ thuộc chiều cao, tổng diện tích sàn theo thiết kế; nếu thuộc cấp II thì nộp ở cơ quan cấp tỉnh theo phân cấp.
+- **Bước 6. Xin giấy phép xây dựng** (xem chi tiết ở phần điều kiện hoạt động bên dưới).
 - **Bước 7. Xác định thủ tục môi trường** ngay từ khi thiết kế, vì hệ thống xử lý nước thải phải có trong bản vẽ.
 - **Bước 8. Xây dựng, chủ đầu tư tự tổ chức nghiệm thu PCCC và nghiệm thu công trình.**
 - **Bước 9. Hoàn tất điều kiện để đi vào hoạt động** theo bảng dưới đây.
 
-## Điều kiện để khách sạn đi vào hoạt động: ai cấp, làm thế nào
+## Giấy phép xây dựng và điều kiện để khách sạn đi vào hoạt động: ai cấp, làm thế nào
 
 | Điều kiện | Cơ quan giải quyết | Thời điểm làm | Ghi chú |
 |---|---|---|---|
 | Thẩm định thiết kế về PCCC | Phòng Cảnh sát PCCC và CNCH, Công an tỉnh (một số trường hợp chủ đầu tư tự thẩm định theo Nghị định 347/2026/NĐ-CP) | Trước khi xin giấy phép xây dựng | Khách sạn 6 tầng, 52 phòng thuộc diện quản lý về PCCC |
+| Giấy phép xây dựng | UBND phường (công trình cấp III, cấp IV); cơ quan cấp tỉnh theo phân cấp nếu là cấp II | Sau khi có kết quả thẩm định thiết kế PCCC, trước khi khởi công | Thời hạn giải quyết 10 ngày làm việc từ 01/7/2026; một số trường hợp được miễn giấy phép |
 | Nghiệm thu PCCC | Chủ đầu tư tự tổ chức, tự chịu trách nhiệm | Trước khi đón khách | Từ 01/7/2026 Công an không còn nghiệm thu, nhưng vẫn hậu kiểm định kỳ, đột xuất |
 | Đăng ký môi trường hoặc giấy phép môi trường | Đăng ký môi trường: UBND phường. Giấy phép môi trường (nếu thuộc diện): UBND tỉnh | Đăng ký trước khi vận hành; giấy phép phải có trước khi vận hành chính thức | Cụm từ "cam kết bảo vệ môi trường" đã bỏ, nay là đăng ký môi trường hoặc giấy phép môi trường tùy quy mô xả thải |
 | Giấy chứng nhận đủ điều kiện về an ninh, trật tự | Công an cấp xã hoặc Công an tỉnh theo phân cấp tại Nghị định 96/2016/NĐ-CP (đã sửa đổi); nên hỏi trước tại Công an phường | Sau khi có đăng ký ngành nghề lưu trú, trước khi đón khách | Thời hạn cấp mới không quá 4 ngày làm việc kể từ khi nhận đủ hồ sơ |
@@ -86,17 +87,25 @@ Với quy mô 15 đến 20 tỷ đồng, **nên đăng ký sang đất thương 
 - **Trước khi đón khách:** chủ đầu tư tự tổ chức nghiệm thu, lập biên bản, lưu hồ sơ. Lập phương án chữa cháy của cơ sở, hồ sơ quản lý PCCC và huấn luyện nhân viên theo quy định.
 - **Lưu ý:** việc bỏ thủ tục nghiệm thu không làm giảm yêu cầu kỹ thuật. Thiếu điều kiện PCCC khi bị hậu kiểm, khách sạn có thể bị đình chỉ hoạt động.
 
-### 2. Môi trường
+### 2. Giấy phép xây dựng
+
+- **Ai cấp:** UBND phường nơi có công trình cấp giấy phép cho công trình cấp III, cấp IV (khoản 1 Điều 53 Luật Xây dựng 2025). Khách sạn 6 tầng và 1 tum thường là cấp III. Nếu theo thiết kế công trình thuộc cấp II thì nộp tại cơ quan cấp tỉnh theo phân cấp.
+- **Hồ sơ chính:** đơn đề nghị cấp giấy phép xây dựng; giấy tờ hợp pháp về đất (sổ đỏ, hoặc hợp đồng thuê đất có công chứng nếu công ty thuê đất của chủ đất, kèm văn bản đồng ý cho xây dựng); bản vẽ thiết kế (mặt bằng, mặt cắt, mặt đứng, móng, đấu nối hạ tầng); kết quả thẩm định thiết kế về PCCC; văn bản thẩm định thiết kế của cơ quan chuyên môn về xây dựng nếu thuộc diện phải thẩm định.
+- **Thời hạn:** theo Nghị quyết 66.18/2026/NQ-CP, thời hạn cấp giấy phép xây dựng rút từ 20 ngày xuống còn 10 ngày làm việc kể từ khi nhận đủ hồ sơ hợp lệ.
+- **Trường hợp miễn phép:** Luật Xây dựng 2025 mở rộng các trường hợp được miễn giấy phép xây dựng, trong đó có công trình thuộc dự án đã được thẩm định báo cáo nghiên cứu khả thi. Chủ đầu tư nên hỏi trước UBND phường xem khách sạn của mình có thuộc diện miễn không. Được miễn phép vẫn phải xây đúng quy hoạch, thiết kế được duyệt và thông báo khởi công.
+- **Lưu ý:** xin phép là "nhà ở riêng lẻ" rồi xây khách sạn là sai mục đích công trình, có thể bị xử phạt và gặp khó khi cấp giấy chứng nhận an ninh, trật tự, xếp hạng sao.
+
+### 3. Môi trường
 
 - Khách sạn phát sinh nước thải sinh hoạt, rác thải. Tùy lưu lượng nước thải, dự án thuộc diện **đăng ký môi trường tại UBND phường** hoặc **giấy phép môi trường tại UBND tỉnh**.
 - Cần lắp đặt hệ thống xử lý nước thải, đấu nối thoát nước theo thiết kế; ký hợp đồng thu gom rác.
 
-### 3. Giấy chứng nhận đủ điều kiện về an ninh, trật tự
+### 4. Giấy chứng nhận đủ điều kiện về an ninh, trật tự
 
 - **Hồ sơ:** văn bản đề nghị theo mẫu; bản sao giấy chứng nhận đăng ký doanh nghiệp có ngành nghề lưu trú; tài liệu chứng minh đáp ứng điều kiện PCCC; bản khai lý lịch hoặc thông tin của người chịu trách nhiệm về an ninh, trật tự.
 - **Sau khi được cấp:** thông báo lưu trú cho khách đúng quy định, kiểm tra giấy tờ tùy thân của khách theo danh mục tại Nghị định 392/2026/NĐ-CP.
 
-### 4. Công nhận hạng 3 sao (nếu muốn)
+### 5. Công nhận hạng 3 sao (nếu muốn)
 
 - Xếp hạng là **tự nguyện**. Khách sạn chưa xếp hạng vẫn được kinh doanh nếu đủ điều kiện lưu trú du lịch theo Điều 49 Luật Du lịch 2017.
 - **Nơi nộp:** Sở Văn hóa, Thể thao và Du lịch tỉnh (công nhận hạng 1 sao, 2 sao, 3 sao).
