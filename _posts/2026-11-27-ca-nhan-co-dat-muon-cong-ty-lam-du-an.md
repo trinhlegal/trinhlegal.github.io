@@ -1,6 +1,6 @@
 ---
-title: "Có 450 m² đất ở đô thị đứng tên cá nhân, muốn công ty xây khách sạn: làm thế nào cho đúng?"
-description: "Đất ở mặt tiền 15 m, sâu 30 m, chủ đất muốn đưa vào công ty để xây khách sạn khoảng 15 đến 20 tỷ đồng. Bài viết chỉ ra 2 việc phải quyết trước: có đổi sang đất thương mại, dịch vụ không, và góp vốn, cho thuê hay bán cho công ty."
+title: "Có 450 m² đất ở đô thị đứng tên cá nhân, muốn công ty xây khách sạn 3 sao: làm thế nào cho đúng?"
+description: "Đất ở mặt tiền 15 m, sâu 30 m, chủ đất muốn đưa vào công ty để xây khách sạn 3 sao khoảng 52 phòng, vốn 15 đến 20 tỷ đồng. Bài viết chỉ ra 2 việc phải quyết trước: có đổi sang đất thương mại, dịch vụ không, và góp vốn, cho thuê hay bán cho công ty."
 date: 2026-11-27 07:40:00 +0700
 mang: "Dự án đầu tư"
 nhom: doanh-nghiep
@@ -9,7 +9,7 @@ can_cu_den_ngay: "27/11/2026"
 
 ## Tình huống thường gặp
 
-Anh V. có thửa đất ở đô thị 450 m² (mặt tiền 15 m, sâu 30 m) tại một phường ở Lào Cai, sổ đỏ đứng tên anh. Anh cùng mấy người bạn lập công ty TNHH, dự kiến bỏ khoảng 15 đến 20 tỷ đồng xây khách sạn 6 đến 7 tầng trên thửa đất này.
+Anh V. có thửa đất ở đô thị 450 m² (mặt tiền 15 m, sâu 30 m) tại một phường ở Lào Cai, sổ đỏ đứng tên anh. Anh cùng mấy người bạn lập công ty TNHH, dự kiến bỏ khoảng 15 đến 20 tỷ đồng xây khách sạn 3 sao khoảng 52 phòng, cao 6 tầng và 1 tum, trên thửa đất này.
 
 Anh hỏi: có phải đổi loại đất không, nên góp đất vào công ty, cho công ty thuê hay bán cho công ty, và thủ tục nộp ở đâu.
 
@@ -38,7 +38,7 @@ Anh hỏi: có phải đổi loại đất không, nên góp đất vào công t
 |---|---|---|
 | Thủ tục đất | Không phải làm | Không phải xin phép; đăng ký biến động tại Văn phòng đăng ký đất đai, phải phù hợp quy hoạch |
 | Loại công trình xin phép | Nhà ở riêng lẻ, kinh doanh lưu trú quy mô nhỏ | Công trình dịch vụ lưu trú (khách sạn) |
-| Phù hợp khi | Nhà nghỉ, homestay vài tầng | Khách sạn 6 đến 7 tầng, vốn 15 đến 20 tỷ |
+| Phù hợp khi | Nhà nghỉ, homestay vài tầng | Khách sạn 3 sao 52 phòng, 6 tầng và 1 tum |
 | Lưu ý | Xây khách sạn nhiều tầng dưới danh nghĩa nhà ở dễ bị vướng khi xin phép, thẩm định PCCC, vay vốn | Hỏi trước về thời hạn sử dụng đất và nghĩa vụ tài chính sau khi đăng ký; giá trị thế chấp có thể khác đất ở |
 
 Với quy mô 15 đến 20 tỷ đồng, **nên đăng ký sang đất thương mại, dịch vụ** để giấy phép xây dựng, thiết kế PCCC và hồ sơ vay vốn thống nhất với nhau. Nên để anh V. tự đứng tên đăng ký trước khi đưa đất vào công ty.
@@ -60,15 +60,16 @@ Với quy mô 15 đến 20 tỷ đồng, **nên đăng ký sang đất thương 
 - **Bước 1. Kiểm tra quy hoạch và chỉ tiêu xây dựng.** Xin thông tin quy hoạch tại UBND phường: thửa đất có được làm khách sạn không, được xây tối đa bao nhiêu tầng, mật độ, khoảng lùi. Với thửa đất 450 m², đây là yếu tố quyết định quy mô khách sạn.
 - **Bước 2. Đăng ký sang đất thương mại, dịch vụ** (nếu chọn) tại Văn phòng đăng ký đất đai, nộp qua Trung tâm Phục vụ hành chính công.
 - **Bước 3. Ký hợp đồng góp vốn, thuê hoặc chuyển nhượng** với công ty, công chứng và đăng ký sang tên (nếu góp vốn hoặc bán). Đất là tài sản chung vợ chồng thì cả hai cùng ký.
-- **Bước 4. Thiết kế và thẩm định thiết kế về PCCC** tại cơ quan Cảnh sát PCCC và CNCH. Khách sạn quy mô này thường thuộc diện phải thẩm định.
-- **Bước 5. Xin giấy phép xây dựng.** Công trình cấp III, cấp IV nộp tại UBND phường. Khách sạn 6 đến 7 tầng thường là cấp III, nhưng nếu lên cấp II thì nộp ở cơ quan cấp tỉnh theo phân cấp; cần kiểm tra theo thiết kế cụ thể.
-- **Bước 6. Thủ tục môi trường.** Thường chỉ cần đăng ký môi trường tại UBND phường. Nếu thuộc diện phải có giấy phép môi trường thì nộp ở cấp tỉnh.
-- **Bước 7. Xây dựng, nghiệm thu PCCC, đưa vào sử dụng.**
-- **Bước 8. Điều kiện kinh doanh:** bổ sung ngành nghề lưu trú cho công ty, xin giấy chứng nhận đủ điều kiện về an ninh, trật tự tại cơ quan công an, thông báo hoạt động kinh doanh lưu trú, đề nghị công nhận hạng sao nếu có nhu cầu.
+- **Bước 4. Thiết kế theo tiêu chuẩn 3 sao ngay từ đầu.** Diện tích phòng, sảnh, nhà hàng, thang máy, chỗ đỗ xe phải đáp ứng tiêu chuẩn quốc gia về xếp hạng khách sạn hiện hành. Thiết kế thiếu tiêu chí thì sau khi xây xong rất khó sửa để được công nhận 3 sao.
+- **Bước 5. Thẩm định thiết kế về PCCC** tại cơ quan Cảnh sát PCCC và CNCH. Khách sạn quy mô này thường thuộc diện phải thẩm định.
+- **Bước 6. Xin giấy phép xây dựng.** Công trình cấp III, cấp IV nộp tại UBND phường. Khách sạn 6 tầng và 1 tum thường được xác định là cấp III, nhưng cấp công trình còn phụ thuộc chiều cao, tổng diện tích sàn theo thiết kế; nếu thuộc cấp II thì nộp ở cơ quan cấp tỉnh theo phân cấp.
+- **Bước 7. Thủ tục môi trường.** Thường chỉ cần đăng ký môi trường tại UBND phường. Nếu thuộc diện phải có giấy phép môi trường thì nộp ở cấp tỉnh.
+- **Bước 8. Xây dựng, nghiệm thu PCCC, đưa vào sử dụng.**
+- **Bước 9. Điều kiện kinh doanh:** bổ sung ngành nghề lưu trú cho công ty, xin giấy chứng nhận đủ điều kiện về an ninh, trật tự tại cơ quan công an, thông báo hoạt động kinh doanh lưu trú, đề nghị cơ quan quản lý du lịch cấp tỉnh thẩm định, công nhận hạng 3 sao theo Luật Du lịch 2017.
 
 ## Rủi ro thường gặp
 
-- **Không xin thông tin quy hoạch trước khi thiết kế.** Thiết kế 7 tầng nhưng quy hoạch chỉ cho phép 5 tầng thì phải làm lại toàn bộ.
+- **Không xin thông tin quy hoạch trước khi thiết kế.** Thiết kế 6 tầng và 1 tum nhưng quy hoạch chỉ cho phép 5 tầng thì phải làm lại toàn bộ, số phòng giảm, phương án kinh doanh thay đổi.
 - **Xây khách sạn nhưng xin phép là nhà ở**, rồi khó nghiệm thu PCCC, khó vay vốn, dễ bị xử phạt.
 - **Công ty thuê đất bằng giấy tay, thời hạn ngắn** mà bỏ hàng chục tỷ xây dựng. Rủi ro rất lớn khi chủ đất đổi ý, qua đời hoặc phát sinh tranh chấp thừa kế.
 - **Nhờ người khác đứng tên vốn góp.** Nghị định 296/2026/NĐ-CP đã cấm đứng tên góp vốn thay.
@@ -81,7 +82,7 @@ Luật Đất đai (sửa đổi) đã được Quốc hội thông qua ngày 21
 
 1. Xin thông tin quy hoạch của thửa đất tại UBND phường.
 2. Thống nhất trong công ty: góp đất, cho thuê hay bán, giá trị bao nhiêu.
-3. Chọn đơn vị thiết kế có kinh nghiệm thiết kế khách sạn và PCCC.
+3. Chọn đơn vị thiết kế có kinh nghiệm thiết kế khách sạn 3 sao và PCCC.
 
 Mỗi thửa đất có quy hoạch và điều kiện khác nhau. Bài viết giúp Quý khách định hướng, không thay cho việc rà soát hồ sơ cụ thể và không bảo đảm kết quả chấp thuận của cơ quan nhà nước.
 
