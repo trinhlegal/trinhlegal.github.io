@@ -1,7 +1,7 @@
 ---
 title: "Thử việc, hợp đồng có thời hạn và không thời hạn: phân biệt đúng để không vi phạm"
 description: "Thử việc bao lâu là đúng luật, hợp đồng có thời hạn được ký mấy lần, khi nào bắt buộc chuyển sang hợp đồng không xác định thời hạn. Bài viết tổng hợp quy định đang áp dụng và các lỗi doanh nghiệp, người lao động hay gặp."
-date: 2026-11-27 06:20:00 +0700
+date: 2026-11-27 07:50:00 +0700
 mang: "Lao động"
 nhom: lao-dong
 can_cu_den_ngay: "27/11/2026"
