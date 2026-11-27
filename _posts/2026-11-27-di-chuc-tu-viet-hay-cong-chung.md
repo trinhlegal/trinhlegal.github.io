@@ -1,7 +1,7 @@
 ---
 title: "Di chúc tự viết tay hay đi công chứng: điều kiện để di chúc không bị tuyên vô hiệu"
 description: "Di chúc viết tay không công chứng vẫn có thể hợp pháp, nhưng chỉ cần sai một chi tiết về hình thức hoặc người làm chứng là dễ bị con cháu kiện. Bài viết so sánh 4 hình thức di chúc bằng văn bản và những lỗi hay làm di chúc mất hiệu lực."
-date: 2026-11-27 06:00:00 +0700
+date: 2026-11-27 07:55:00 +0700
 mang: "Thừa kế"
 nhom: ca-nhan
 can_cu_den_ngay: "27/11/2026"

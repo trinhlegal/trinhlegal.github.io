@@ -1,7 +1,7 @@
 ---
 title: "Tách thửa đất ở tại Lào Cai: diện tích tối thiểu, lối đi và những lý do hay bị trả hồ sơ"
 description: "Muốn chia đất cho con hay bán bớt một phần, mỗi thửa sau khi tách phải đủ diện tích, kích thước và có lối đi. Bài viết tổng hợp mức tối thiểu theo Quyết định 49/2026/QĐ-UBND tỉnh Lào Cai, điểm mới của Nghị quyết 254/2025/QH15 và cách làm hồ sơ."
-date: 2026-11-26 10:00:00 +0700
+date: 2026-11-27 07:30:00 +0700
 mang: "Đất đai"
 nhom: ca-nhan
 can_cu_den_ngay: "26/11/2026"

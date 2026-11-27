@@ -1,7 +1,7 @@
 ---
 title: "Mua đất bằng giấy viết tay hoặc vi bằng: làm sổ đỏ thế nào, có mất trắng không?"
 description: "Giấy viết tay chưa công chứng, vi bằng không thay được hợp đồng. Mua trước hay sau ngày 01/8/2024 sẽ quyết định cách làm sổ. Bài viết chỉ rõ từng trường hợp, kèm điểm mới của Luật Đất đai sửa đổi có hiệu lực từ 01/7/2027."
-date: 2026-11-26 08:00:00 +0700
+date: 2026-11-27 08:00:00 +0700
 mang: "Đất đai"
 nhom: ca-nhan
 can_cu_den_ngay: "26/11/2026"

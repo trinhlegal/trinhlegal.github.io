@@ -1,7 +1,7 @@
 ---
 title: "Thay người đại diện theo pháp luật công ty TNHH, công ty cổ phần: thủ tục và trách nhiệm của người cũ"
 description: "Giám đốc nghỉ việc nhưng công ty chưa đăng ký thay đổi thì người cũ vẫn đứng tên đại diện trên hệ thống, vẫn bị cơ quan thuế, ngân hàng, đối tác tìm đến. Bài viết hướng dẫn hồ sơ, thời hạn 10 ngày và cách bàn giao để tách bạch trách nhiệm."
-date: 2026-11-27 07:30:00 +0700
+date: 2026-11-27 07:45:00 +0700
 mang: "Đăng ký kinh doanh"
 nhom: doanh-nghiep
 can_cu_den_ngay: "27/11/2026"

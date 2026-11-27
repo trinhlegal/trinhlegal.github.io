@@ -1,7 +1,7 @@
 ---
 title: "Đất ở lâu năm nhưng không có giấy tờ: điều kiện và cách làm sổ đỏ lần đầu"
 description: "Gia đình ở ổn định nhiều năm mà trong tay không có giấy tờ gì về đất vẫn có thể được cấp sổ. Mốc thời gian bắt đầu sử dụng đất quyết định có được cấp hay không và phải nộp bao nhiêu tiền."
-date: 2026-11-26 09:00:00 +0700
+date: 2026-11-27 07:35:00 +0700
 mang: "Đất đai"
 nhom: ca-nhan
 can_cu_den_ngay: "26/11/2026"

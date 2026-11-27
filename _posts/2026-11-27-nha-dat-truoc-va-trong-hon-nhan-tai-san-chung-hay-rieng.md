@@ -1,7 +1,7 @@
 ---
 title: "Nhà đất có trước và trong thời kỳ hôn nhân: khi nào là tài sản chung, khi nào là tài sản riêng?"
 description: "Đất có trước khi cưới chưa chắc giữ được nguyên vẹn, còn đất mua sau khi cưới dù chỉ một người đứng tên vẫn có thể là tài sản chung. Bài viết phân loại các tình huống hay gặp và cách giữ chứng cứ để không bị chia oan khi ly hôn."
-date: 2026-11-27 07:45:00 +0700
+date: 2026-11-27 07:50:00 +0700
 mang: "Hôn nhân gia đình"
 nhom: ca-nhan
 can_cu_den_ngay: "27/11/2026"

@@ -1,7 +1,7 @@
 ---
 title: "Doanh nghiệp đơn phương chấm dứt hợp đồng lao động: căn cứ, thời hạn báo trước và quy trình đúng luật"
 description: "Chỉ được đơn phương chấm dứt hợp đồng lao động khi có một trong các căn cứ luật định, báo trước đủ ngày và không rơi vào trường hợp bị cấm. Làm sai, doanh nghiệp phải nhận người lao động trở lại và bồi thường. Bài viết nêu rõ cho cả hai phía."
-date: 2026-11-26 07:00:00 +0700
+date: 2026-11-27 07:20:00 +0700
 mang: "Lao động"
 nhom: lao-dong
 can_cu_den_ngay: "27/11/2026"
