@@ -9,7 +9,7 @@ can_cu_den_ngay: "27/11/2026"
 
 ## Tình huống thường gặp
 
-Anh V. có thửa đất ở đô thị 450 m² (mặt tiền 15 m, sâu 30 m) tại một phường ở Lào Cai, sổ đỏ đứng tên anh. Anh cùng mấy người bạn lập công ty TNHH, dự kiến bỏ khoảng 15 đến 20 tỷ đồng xây khách sạn 3 sao khoảng 52 phòng, cao 6 tầng và 1 tum, trên thửa đất này.
+Anh V. có thửa đất ở đô thị 450 m² (mặt tiền 15 m, sâu 30 m) tại một phường ở Lào Cai, sổ đỏ đứng tên anh. Anh cùng mấy người bạn lập công ty TNHH, dự kiến bỏ khoảng 15 đến 20 tỷ đồng xây khách sạn 3 sao khoảng 52 phòng, cao 6 tầng và 1 tum (tum chiếm 28% diện tích sàn mái), tổng chiều cao 22,5 m, trên thửa đất này.
 
 Anh hỏi: có phải đổi loại đất không, nên góp đất vào công ty, cho công ty thuê hay bán cho công ty, và thủ tục nộp ở đâu.
 
@@ -30,6 +30,7 @@ Anh hỏi: có phải đổi loại đất không, nên góp đất vào công t
   - Điểm a khoản 3 Điều 27: hợp đồng chuyển nhượng, góp vốn bằng quyền sử dụng đất phải công chứng hoặc chứng thực.
 - **Luật Đầu tư số 143/2025/QH15**, Điều 26: dự án của nhà đầu tư trong nước không phải cấp Giấy chứng nhận đăng ký đầu tư.
 - **Luật Xây dựng số 135/2025/QH15**, khoản 1 Điều 53: UBND xã, phường cấp giấy phép xây dựng công trình cấp III, cấp IV.
+- **Thông tư 34/2026/TT-BXD** quy định chi tiết về cấp công trình xây dựng (hiệu lực 01/7/2026, thay thế Thông tư 06/2021/TT-BXD).
 - **Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ số 55/2024/QH15** (đã được sửa đổi, bổ sung); **Nghị định 105/2025/NĐ-CP**; **Nghị quyết 66.18/2026/NQ-CP** (bỏ thủ tục nghiệm thu, kiểm tra nghiệm thu PCCC của cơ quan Công an từ 01/7/2026 đến hết 28/02/2027).
 - **Luật Bảo vệ môi trường số 72/2020/QH14** (đã được sửa đổi, bổ sung), Điều 49: đăng ký môi trường; **Nghị định 131/2025/NĐ-CP**, Điều 26: thẩm quyền cấp giấy phép môi trường của Chủ tịch UBND cấp tỉnh.
 - **Nghị định 96/2016/NĐ-CP** về điều kiện an ninh, trật tự (sửa đổi, bổ sung bởi Nghị định 56/2023/NĐ-CP, Nghị định 58/2026/NĐ-CP, Nghị định 392/2026/NĐ-CP có hiệu lực từ 15/11/2026).
@@ -75,7 +76,7 @@ Với quy mô 15 đến 20 tỷ đồng, **nên đăng ký sang đất thương 
 | Điều kiện | Cơ quan giải quyết | Thời điểm làm | Ghi chú |
 |---|---|---|---|
 | Thẩm định thiết kế về PCCC | Phòng Cảnh sát PCCC và CNCH, Công an tỉnh (một số trường hợp chủ đầu tư tự thẩm định theo Nghị định 347/2026/NĐ-CP) | Trước khi xin giấy phép xây dựng | Khách sạn 6 tầng, 52 phòng thuộc diện quản lý về PCCC |
-| Giấy phép xây dựng | UBND phường (công trình cấp III, cấp IV); cơ quan cấp tỉnh theo phân cấp nếu là cấp II | Sau khi có kết quả thẩm định thiết kế PCCC, trước khi khởi công | Thời hạn giải quyết 10 ngày làm việc từ 01/7/2026; một số trường hợp được miễn giấy phép |
+| Giấy phép xây dựng | UBND phường (khách sạn 6 tầng, cao 22,5 m là công trình cấp III) | Sau khi có kết quả thẩm định thiết kế PCCC, trước khi khởi công | Thời hạn giải quyết 10 ngày làm việc từ 01/7/2026; một số trường hợp được miễn giấy phép |
 | Nghiệm thu PCCC | Chủ đầu tư tự tổ chức, tự chịu trách nhiệm | Trước khi đón khách | Từ 01/7/2026 Công an không còn nghiệm thu, nhưng vẫn hậu kiểm định kỳ, đột xuất |
 | Đăng ký môi trường hoặc giấy phép môi trường | Đăng ký môi trường: UBND phường. Giấy phép môi trường (nếu thuộc diện): UBND tỉnh | Đăng ký trước khi vận hành; giấy phép phải có trước khi vận hành chính thức | Cụm từ "cam kết bảo vệ môi trường" đã bỏ, nay là đăng ký môi trường hoặc giấy phép môi trường tùy quy mô xả thải |
 | Giấy chứng nhận đủ điều kiện về an ninh, trật tự | Công an cấp xã hoặc Công an tỉnh theo phân cấp tại Nghị định 96/2016/NĐ-CP (đã sửa đổi); nên hỏi trước tại Công an phường | Sau khi có đăng ký ngành nghề lưu trú, trước khi đón khách | Thời hạn cấp mới không quá 4 ngày làm việc kể từ khi nhận đủ hồ sơ |
@@ -89,7 +90,12 @@ Với quy mô 15 đến 20 tỷ đồng, **nên đăng ký sang đất thương 
 
 ### 2. Giấy phép xây dựng
 
-- **Ai cấp:** UBND phường nơi có công trình cấp giấy phép cho công trình cấp III, cấp IV (khoản 1 Điều 53 Luật Xây dựng 2025). Khách sạn 6 tầng và 1 tum thường là cấp III. Nếu theo thiết kế công trình thuộc cấp II thì nộp tại cơ quan cấp tỉnh theo phân cấp.
+- **Xác định cấp công trình trước.** Theo Phụ lục II Thông tư 34/2026/TT-BXD, nhà có chiều cao trên 6 m đến 28 m, số tầng cao từ 2 đến 7 tầng, tổng diện tích sàn từ 1.000 m² đến 10.000 m² thuộc cấp III. Khách sạn trong tình huống:
+  - Chiều cao 22,5 m: thuộc cấp III.
+  - 6 tầng; tum chiếm 28% diện tích sàn mái, dưới ngưỡng 30% nên không tính vào số tầng cao: thuộc cấp III.
+  - Tổng diện tích sàn ước khoảng 2.000 đến 2.300 m²: thuộc cấp III.
+  - Kết luận: khách sạn là **công trình cấp III**. Nếu thiết kế điều chỉnh làm tum vượt 30% diện tích sàn mái, hoặc nâng chiều cao, số tầng, cần xác định lại.
+- **Ai cấp:** với công trình cấp III, **UBND phường nơi có công trình** cấp giấy phép xây dựng (khoản 1 Điều 53 Luật Xây dựng 2025). Hồ sơ nộp qua Trung tâm Phục vụ hành chính công phường hoặc Cổng dịch vụ công.
 - **Hồ sơ chính:** đơn đề nghị cấp giấy phép xây dựng; giấy tờ hợp pháp về đất (sổ đỏ, hoặc hợp đồng thuê đất có công chứng nếu công ty thuê đất của chủ đất, kèm văn bản đồng ý cho xây dựng); bản vẽ thiết kế (mặt bằng, mặt cắt, mặt đứng, móng, đấu nối hạ tầng); kết quả thẩm định thiết kế về PCCC; văn bản thẩm định thiết kế của cơ quan chuyên môn về xây dựng nếu thuộc diện phải thẩm định.
 - **Thời hạn:** theo Nghị quyết 66.18/2026/NQ-CP, thời hạn cấp giấy phép xây dựng rút từ 20 ngày xuống còn 10 ngày làm việc kể từ khi nhận đủ hồ sơ hợp lệ.
 - **Trường hợp miễn phép:** Luật Xây dựng 2025 mở rộng các trường hợp được miễn giấy phép xây dựng, trong đó có công trình thuộc dự án đã được thẩm định báo cáo nghiên cứu khả thi. Chủ đầu tư nên hỏi trước UBND phường xem khách sạn của mình có thuộc diện miễn không. Được miễn phép vẫn phải xây đúng quy hoạch, thiết kế được duyệt và thông báo khởi công.
