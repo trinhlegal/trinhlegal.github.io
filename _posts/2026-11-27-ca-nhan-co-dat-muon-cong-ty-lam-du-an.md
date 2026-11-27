@@ -30,7 +30,10 @@ Anh hỏi: có phải đổi loại đất không, nên góp đất vào công t
   - Điểm a khoản 3 Điều 27: hợp đồng chuyển nhượng, góp vốn bằng quyền sử dụng đất phải công chứng hoặc chứng thực.
 - **Luật Đầu tư số 143/2025/QH15**, Điều 26: dự án của nhà đầu tư trong nước không phải cấp Giấy chứng nhận đăng ký đầu tư.
 - **Luật Xây dựng số 135/2025/QH15**, khoản 1 Điều 53: UBND xã, phường cấp giấy phép xây dựng công trình cấp III, cấp IV.
-- **Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ số 55/2024/QH15** (đã được sửa đổi, bổ sung); **Nghị định 105/2025/NĐ-CP**.
+- **Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ số 55/2024/QH15** (đã được sửa đổi, bổ sung); **Nghị định 105/2025/NĐ-CP**; **Nghị quyết 66.18/2026/NQ-CP** (bỏ thủ tục nghiệm thu, kiểm tra nghiệm thu PCCC của cơ quan Công an từ 01/7/2026 đến hết 28/02/2027).
+- **Luật Bảo vệ môi trường số 72/2020/QH14** (đã được sửa đổi, bổ sung), Điều 49: đăng ký môi trường; **Nghị định 131/2025/NĐ-CP**, Điều 26: thẩm quyền cấp giấy phép môi trường của Chủ tịch UBND cấp tỉnh.
+- **Nghị định 96/2016/NĐ-CP** về điều kiện an ninh, trật tự (sửa đổi, bổ sung bởi Nghị định 56/2023/NĐ-CP, Nghị định 58/2026/NĐ-CP, Nghị định 392/2026/NĐ-CP có hiệu lực từ 15/11/2026).
+- **Luật Du lịch 2017**, Điều 49 (điều kiện kinh doanh dịch vụ lưu trú du lịch) và Điều 50 (xếp hạng cơ sở lưu trú du lịch).
 
 ## Việc thứ nhất: giữ đất ở hay đổi sang đất thương mại, dịch vụ
 
@@ -61,11 +64,44 @@ Với quy mô 15 đến 20 tỷ đồng, **nên đăng ký sang đất thương 
 - **Bước 2. Đăng ký sang đất thương mại, dịch vụ** (nếu chọn) tại Văn phòng đăng ký đất đai, nộp qua Trung tâm Phục vụ hành chính công.
 - **Bước 3. Ký hợp đồng góp vốn, thuê hoặc chuyển nhượng** với công ty, công chứng và đăng ký sang tên (nếu góp vốn hoặc bán). Đất là tài sản chung vợ chồng thì cả hai cùng ký.
 - **Bước 4. Thiết kế theo tiêu chuẩn 3 sao ngay từ đầu.** Diện tích phòng, sảnh, nhà hàng, thang máy, chỗ đỗ xe phải đáp ứng tiêu chuẩn quốc gia về xếp hạng khách sạn hiện hành. Thiết kế thiếu tiêu chí thì sau khi xây xong rất khó sửa để được công nhận 3 sao.
-- **Bước 5. Thẩm định thiết kế về PCCC** tại cơ quan Cảnh sát PCCC và CNCH. Khách sạn quy mô này thường thuộc diện phải thẩm định.
+- **Bước 5. Thẩm định thiết kế về PCCC** trước khi xin giấy phép xây dựng (xem chi tiết ở phần điều kiện hoạt động bên dưới).
 - **Bước 6. Xin giấy phép xây dựng.** Công trình cấp III, cấp IV nộp tại UBND phường. Khách sạn 6 tầng và 1 tum thường được xác định là cấp III, nhưng cấp công trình còn phụ thuộc chiều cao, tổng diện tích sàn theo thiết kế; nếu thuộc cấp II thì nộp ở cơ quan cấp tỉnh theo phân cấp.
-- **Bước 7. Thủ tục môi trường.** Thường chỉ cần đăng ký môi trường tại UBND phường. Nếu thuộc diện phải có giấy phép môi trường thì nộp ở cấp tỉnh.
-- **Bước 8. Xây dựng, nghiệm thu PCCC, đưa vào sử dụng.**
-- **Bước 9. Điều kiện kinh doanh:** bổ sung ngành nghề lưu trú cho công ty, xin giấy chứng nhận đủ điều kiện về an ninh, trật tự tại cơ quan công an, thông báo hoạt động kinh doanh lưu trú, đề nghị cơ quan quản lý du lịch cấp tỉnh thẩm định, công nhận hạng 3 sao theo Luật Du lịch 2017.
+- **Bước 7. Xác định thủ tục môi trường** ngay từ khi thiết kế, vì hệ thống xử lý nước thải phải có trong bản vẽ.
+- **Bước 8. Xây dựng, chủ đầu tư tự tổ chức nghiệm thu PCCC và nghiệm thu công trình.**
+- **Bước 9. Hoàn tất điều kiện để đi vào hoạt động** theo bảng dưới đây.
+
+## Điều kiện để khách sạn đi vào hoạt động: ai cấp, làm thế nào
+
+| Điều kiện | Cơ quan giải quyết | Thời điểm làm | Ghi chú |
+|---|---|---|---|
+| Thẩm định thiết kế về PCCC | Phòng Cảnh sát PCCC và CNCH, Công an tỉnh (một số trường hợp chủ đầu tư tự thẩm định theo Nghị định 347/2026/NĐ-CP) | Trước khi xin giấy phép xây dựng | Khách sạn 6 tầng, 52 phòng thuộc diện quản lý về PCCC |
+| Nghiệm thu PCCC | Chủ đầu tư tự tổ chức, tự chịu trách nhiệm | Trước khi đón khách | Từ 01/7/2026 Công an không còn nghiệm thu, nhưng vẫn hậu kiểm định kỳ, đột xuất |
+| Đăng ký môi trường hoặc giấy phép môi trường | Đăng ký môi trường: UBND phường. Giấy phép môi trường (nếu thuộc diện): UBND tỉnh | Đăng ký trước khi vận hành; giấy phép phải có trước khi vận hành chính thức | Cụm từ "cam kết bảo vệ môi trường" đã bỏ, nay là đăng ký môi trường hoặc giấy phép môi trường tùy quy mô xả thải |
+| Giấy chứng nhận đủ điều kiện về an ninh, trật tự | Công an cấp xã hoặc Công an tỉnh theo phân cấp tại Nghị định 96/2016/NĐ-CP (đã sửa đổi); nên hỏi trước tại Công an phường | Sau khi có đăng ký ngành nghề lưu trú, trước khi đón khách | Thời hạn cấp mới không quá 4 ngày làm việc kể từ khi nhận đủ hồ sơ |
+| Công nhận hạng 3 sao (tự nguyện) | Sở Văn hóa, Thể thao và Du lịch tỉnh | Sau khi khách sạn đã hoạt động, có nhu cầu xếp hạng | Thẩm định thực tế theo tiêu chuẩn quốc gia về xếp hạng khách sạn |
+
+### 1. Phòng cháy chữa cháy
+
+- **Hồ sơ thẩm định thiết kế:** văn bản đề nghị theo mẫu của Nghị định 105/2025/NĐ-CP, giấy tờ hợp pháp về đất, hồ sơ thiết kế phần PCCC (hệ thống báo cháy, chữa cháy, thoát nạn, ngăn cháy).
+- **Trước khi đón khách:** chủ đầu tư tự tổ chức nghiệm thu, lập biên bản, lưu hồ sơ. Lập phương án chữa cháy của cơ sở, hồ sơ quản lý PCCC và huấn luyện nhân viên theo quy định.
+- **Lưu ý:** việc bỏ thủ tục nghiệm thu không làm giảm yêu cầu kỹ thuật. Thiếu điều kiện PCCC khi bị hậu kiểm, khách sạn có thể bị đình chỉ hoạt động.
+
+### 2. Môi trường
+
+- Khách sạn phát sinh nước thải sinh hoạt, rác thải. Tùy lưu lượng nước thải, dự án thuộc diện **đăng ký môi trường tại UBND phường** hoặc **giấy phép môi trường tại UBND tỉnh**.
+- Cần lắp đặt hệ thống xử lý nước thải, đấu nối thoát nước theo thiết kế; ký hợp đồng thu gom rác.
+
+### 3. Giấy chứng nhận đủ điều kiện về an ninh, trật tự
+
+- **Hồ sơ:** văn bản đề nghị theo mẫu; bản sao giấy chứng nhận đăng ký doanh nghiệp có ngành nghề lưu trú; tài liệu chứng minh đáp ứng điều kiện PCCC; bản khai lý lịch hoặc thông tin của người chịu trách nhiệm về an ninh, trật tự.
+- **Sau khi được cấp:** thông báo lưu trú cho khách đúng quy định, kiểm tra giấy tờ tùy thân của khách theo danh mục tại Nghị định 392/2026/NĐ-CP.
+
+### 4. Công nhận hạng 3 sao (nếu muốn)
+
+- Xếp hạng là **tự nguyện**. Khách sạn chưa xếp hạng vẫn được kinh doanh nếu đủ điều kiện lưu trú du lịch theo Điều 49 Luật Du lịch 2017.
+- **Nơi nộp:** Sở Văn hóa, Thể thao và Du lịch tỉnh (công nhận hạng 1 sao, 2 sao, 3 sao).
+- **Hồ sơ:** đơn đề nghị công nhận hạng; bản tự đánh giá theo tiêu chuẩn xếp hạng; danh sách người quản lý, nhân viên kèm chứng chỉ nghiệp vụ theo yêu cầu của hạng 3 sao. Sở thành lập đoàn thẩm định thực tế tại khách sạn trước khi ra quyết định.
+- **Bổ sung khác nếu có nhà hàng:** điều kiện an toàn thực phẩm đối với dịch vụ ăn uống.
 
 ## Rủi ro thường gặp
 
