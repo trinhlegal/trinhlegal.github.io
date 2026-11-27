@@ -1,6 +1,6 @@
 ---
 title: "Có 450 m² đất ở đô thị đứng tên cá nhân, muốn công ty xây khách sạn 3 sao: làm thế nào cho đúng?"
-description: "Chủ đất muốn đưa 450 m² đất ở vào công ty để xây khách sạn 3 sao khoảng 52 phòng, 6 tầng. Với quy mô này, các thủ tục chính đều làm tại phường. Bài viết chỉ rõ từng việc, ai giải quyết và cần lưu ý gì."
+description: "Chủ đất muốn đưa 450 m² đất ở vào công ty để xây khách sạn 3 sao khoảng 52 phòng, 6 tầng. Với quy mô này, phần lớn thủ tục làm tại phường. Bài viết chỉ rõ từng việc, ai giải quyết và cần lưu ý gì."
 date: 2026-11-27 07:40:00 +0700
 mang: "Dự án đầu tư"
 nhom: doanh-nghiep
@@ -20,7 +20,8 @@ Anh hỏi: có phải đổi loại đất không, nên góp đất vào công t
 - **Đổi từ đất ở sang đất thương mại, dịch vụ không phải xin phép**, chỉ cần đăng ký biến động và phải phù hợp quy hoạch.
 - **Đưa đất vào công ty có 3 cách:** góp vốn, cho thuê, chuyển nhượng.
 - **Công ty vốn trong nước không phải xin Giấy chứng nhận đăng ký đầu tư**, không phải xin Nhà nước cho thuê đất.
-- **Với quy mô 6 tầng, dưới 3.000 m² sàn, các thủ tục chính đều làm ở phường:** giấy phép xây dựng, đăng ký môi trường, giấy chứng nhận an ninh, trật tự, quản lý phòng cháy chữa cháy. Riêng công nhận hạng 3 sao là thủ tục tự nguyện, do Sở Văn hóa, Thể thao và Du lịch giải quyết.
+- **Làm ở phường:** giấy phép xây dựng, đăng ký môi trường; phòng cháy chữa cháy không phải thẩm định thiết kế.
+- **Làm ở cấp tỉnh:** giấy chứng nhận đủ điều kiện về an ninh, trật tự (khách sạn từ 30 phòng trở lên do Công an tỉnh cấp); công nhận hạng 3 sao nếu muốn (Sở Văn hóa, Thể thao và Du lịch).
 
 ## Căn cứ pháp luật đang áp dụng
 
@@ -29,7 +30,7 @@ Anh hỏi: có phải đổi loại đất không, nên góp đất vào công t
 - **Luật Xây dựng số 135/2025/QH15**, khoản 1 Điều 53: UBND xã, phường cấp giấy phép xây dựng công trình cấp III, cấp IV. **Thông tư 34/2026/TT-BXD** về cấp công trình xây dựng (hiệu lực 01/7/2026).
 - **Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ số 55/2024/QH15** (đã được sửa đổi, bổ sung); **Nghị định 105/2025/NĐ-CP**, Phụ lục III mục 7.1: khách sạn cao từ 7 tầng trở lên hoặc có tổng diện tích sàn từ 3.000 m² trở lên mới thuộc diện thẩm định thiết kế về PCCC.
 - **Luật Bảo vệ môi trường số 72/2020/QH14** (đã được sửa đổi, bổ sung), Điều 49: đăng ký môi trường tại UBND cấp xã; **Nghị quyết 66.19/2026/NQ-CP** ngày 18/5/2026 về cắt giảm, đơn giản hóa thủ tục hành chính lĩnh vực nông nghiệp và môi trường (Phụ lục IX): dự án chỉ phát sinh nước thải sinh hoạt thực hiện đăng ký môi trường, không phải xin giấy phép môi trường.
-- **Nghị định 96/2016/NĐ-CP** về điều kiện an ninh, trật tự (sửa đổi, bổ sung bởi Nghị định 56/2023/NĐ-CP, Nghị định 58/2026/NĐ-CP, Nghị định 392/2026/NĐ-CP).
+- **Nghị định 96/2016/NĐ-CP** về điều kiện an ninh, trật tự (sửa đổi, bổ sung bởi Nghị định 56/2023/NĐ-CP, Nghị định 58/2026/NĐ-CP, Nghị định 392/2026/NĐ-CP), Điều 24: Công an cấp tỉnh cấp Giấy chứng nhận cho cơ sở kinh doanh dịch vụ lưu trú từ 30 phòng cho thuê trở lên.
 - **Luật Du lịch 2017**, Điều 49 (điều kiện kinh doanh dịch vụ lưu trú du lịch), Điều 50 (xếp hạng cơ sở lưu trú du lịch).
 
 ## Việc thứ nhất: giữ đất ở hay đổi sang đất thương mại, dịch vụ
@@ -63,7 +64,7 @@ Anh hỏi: có phải đổi loại đất không, nên góp đất vào công t
 - **Bước 4. Thiết kế theo tiêu chuẩn 3 sao và quy chuẩn PCCC ngay từ đầu**, giữ quy mô dưới 7 tầng và dưới 3.000 m² sàn.
 - **Bước 5. Xin giấy phép xây dựng** tại UBND phường.
 - **Bước 6. Xây dựng, chủ đầu tư tự nghiệm thu công trình và hệ thống PCCC.**
-- **Bước 7. Đăng ký môi trường, xin giấy chứng nhận an ninh, trật tự, rồi đón khách.**
+- **Bước 7. Đăng ký môi trường tại phường, xin giấy chứng nhận an ninh, trật tự tại Công an tỉnh, rồi đón khách.**
 - **Bước 8. Đề nghị công nhận hạng 3 sao** (nếu muốn).
 
 ## Các thủ tục để khách sạn đi vào hoạt động
@@ -73,7 +74,7 @@ Anh hỏi: có phải đổi loại đất không, nên góp đất vào công t
 | Giấy phép xây dựng | UBND phường | Trước khi khởi công |
 | Phòng cháy chữa cháy | Không phải thẩm định thiết kế tại Công an; chủ đầu tư tự nghiệm thu; cơ quan Công an phụ trách địa bàn quản lý, kiểm tra | Trong quá trình thiết kế, thi công và khi hoạt động |
 | Đăng ký môi trường | UBND phường | Trước khi vận hành |
-| Giấy chứng nhận đủ điều kiện về an ninh, trật tự | Công an phường (theo phân cấp) | Trước khi đón khách |
+| Giấy chứng nhận đủ điều kiện về an ninh, trật tự | Công an tỉnh (khách sạn 52 phòng, từ 30 phòng trở lên) | Trước khi đón khách |
 | Công nhận hạng 3 sao (tự nguyện) | Sở Văn hóa, Thể thao và Du lịch | Sau khi đã hoạt động |
 
 ### 1. Giấy phép xây dựng
@@ -99,10 +100,10 @@ Anh hỏi: có phải đổi loại đất không, nên góp đất vào công t
 
 ### 4. Giấy chứng nhận đủ điều kiện về an ninh, trật tự
 
-- **Nơi nộp:** Công an phường nơi đặt khách sạn (theo phân cấp tại Nghị định 96/2016/NĐ-CP đã sửa đổi).
+- **Nơi nộp:** **Công an tỉnh** (Phòng Cảnh sát quản lý hành chính về trật tự xã hội). Theo Điều 24 Nghị định 96/2016/NĐ-CP đã sửa đổi, cơ sở kinh doanh dịch vụ lưu trú từ 30 phòng cho thuê trở lên do Công an cấp tỉnh cấp; dưới 30 phòng do Công an cấp xã cấp. Khách sạn 52 phòng thuộc thẩm quyền Công an tỉnh. Hồ sơ có thể nộp trực tuyến qua Cổng dịch vụ công.
 - **Hồ sơ:** văn bản đề nghị theo mẫu; bản sao giấy chứng nhận đăng ký doanh nghiệp có ngành nghề lưu trú; tài liệu về bảo đảm điều kiện PCCC; thông tin của người chịu trách nhiệm về an ninh, trật tự.
 - **Thời hạn:** không quá 4 ngày làm việc kể từ khi nhận đủ hồ sơ.
-- **Khi hoạt động:** kiểm tra giấy tờ tùy thân của khách và thông báo lưu trú đúng quy định.
+- **Khi hoạt động:** trong 05 ngày kể từ ngày bắt đầu kinh doanh, gửi thông báo kèm bản sao Giấy chứng nhận cho Công an phường nơi đặt khách sạn; kiểm tra giấy tờ tùy thân của khách và thông báo lưu trú đúng quy định.
 
 ### 5. Công nhận hạng 3 sao (nếu muốn)
 
