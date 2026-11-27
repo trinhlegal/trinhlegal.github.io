@@ -9,17 +9,17 @@ can_cu_den_ngay: "27/11/2026"
 
 ## Tình huống thường gặp
 
-Chị H. vào làm công nhân may tại một doanh nghiệp ở Lào Cai. Chị thử việc 2 tháng, sau đó ký hợp đồng 12 tháng. Hết hạn, công ty ký tiếp 12 tháng, rồi lại ký thêm một hợp đồng 12 tháng nữa.
+Anh K. vào làm công nhân vận hành máy nghiền tại một doanh nghiệp chế biến khoáng sản ở Lào Cai. Anh thử việc 2 tháng, sau đó ký hợp đồng 12 tháng. Hết hạn, công ty ký tiếp 12 tháng, rồi lại ký thêm một hợp đồng 12 tháng nữa.
 
-Khi hợp đồng thứ ba hết hạn, công ty thông báo không ký tiếp. Chị H. cho rằng mình bị cho nghỉ trái luật. Phía công ty nói hợp đồng hết hạn thì chấm dứt, không phải bồi thường gì.
+Khi hợp đồng thứ ba hết hạn, công ty thông báo không ký tiếp. Anh K. cho rằng mình bị cho nghỉ trái luật. Phía công ty nói hợp đồng hết hạn thì chấm dứt, không phải bồi thường gì.
 
 *(Tình huống minh họa, tên người đã được thay đổi.)*
 
 ## Trả lời ngắn
 
-- **Thử việc 2 tháng cho vị trí công nhân là quá thời gian luật cho phép.** Công việc của công nhân kỹ thuật, nhân viên nghiệp vụ chỉ được thử việc tối đa 30 ngày.
+- **Thử việc 2 tháng cho vị trí công nhân vận hành máy là quá thời gian luật cho phép.** Công việc của công nhân kỹ thuật, nhân viên nghiệp vụ chỉ được thử việc tối đa 30 ngày.
 - **Hợp đồng xác định thời hạn chỉ được ký thêm 01 lần.** Từ lần ký thứ ba, nếu người lao động vẫn tiếp tục làm việc, hai bên phải ký hợp đồng không xác định thời hạn (trừ một số trường hợp luật quy định riêng).
-- Vì vậy, hợp đồng thứ ba của chị H. có nguy cơ cao bị xác định là **hợp đồng không xác định thời hạn**. Công ty cho nghỉ với lý do "hết hạn" có thể bị coi là đơn phương chấm dứt hợp đồng trái pháp luật.
+- Vì vậy, hợp đồng thứ ba của anh K. có nguy cơ cao bị xác định là **hợp đồng không xác định thời hạn**. Công ty cho nghỉ với lý do "hết hạn" có thể bị coi là đơn phương chấm dứt hợp đồng trái pháp luật.
 - Kết luận cuối cùng còn phụ thuộc vào nội dung từng hợp đồng, thời điểm ký và quá trình làm việc thực tế.
 
 ## Căn cứ pháp luật đang áp dụng
