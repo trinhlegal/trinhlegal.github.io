@@ -67,7 +67,7 @@ Nói cách khác, di chúc viết tay không sai chỉ vì thiếu dấu công c
 
 - **Định đoạt luôn phần tài sản của vợ hoặc chồng.** Nhà đất là tài sản chung vợ chồng thì người lập chỉ được định đoạt phần của mình. Phần vượt quá sẽ không có hiệu lực.
 - **Di chúc tự viết nhưng lại đánh máy, in ra rồi ký.** Đánh máy mà không có người làm chứng là sai hình thức của Điều 633.
-- **Người làm chứng là con, cháu, vợ, chồng** hoặc người được hưởng di sản theo di chúc. Những người này thuộc diện không được làm chứng theo Điều 632.
+- **Người làm chứng là người thừa kế của người lập di chúc** (như vợ, chồng, con) hoặc người được hưởng di sản theo di chúc. Những người này thuộc diện không được làm chứng theo Điều 632.
 - **Lập di chúc khi đang ốm nặng, lú lẫn** mà không có xác nhận y tế hoặc không có người làm chứng độc lập. Đây là lý do phổ biến nhất để các con kiện nhau.
 - **Thiếu chữ ký ở từng trang, tẩy xóa không ký xác nhận**, ghi tài sản chung chung kiểu "toàn bộ nhà cửa của tôi".
 - **Quên phần của người thừa kế bắt buộc.** Cha, mẹ, vợ, chồng, con chưa thành niên, con đã thành niên mà không có khả năng lao động vẫn được hưởng ít nhất hai phần ba suất thừa kế theo pháp luật dù không có tên trong di chúc (Điều 644 Bộ luật Dân sự), trừ trường hợp từ chối nhận hoặc không có quyền hưởng di sản. Di chúc không vô hiệu nhưng phần chia sẽ bị điều chỉnh.
