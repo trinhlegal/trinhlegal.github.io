@@ -9,7 +9,7 @@ can_cu_den_ngay: "27/11/2026"
 
 ## Tình huống thường gặp
 
-Anh V. có thửa đất ở đô thị 450 m² (mặt tiền 15 m, sâu 30 m) tại một phường ở Lào Cai, sổ đỏ đứng tên anh. Anh cùng mấy người bạn lập công ty TNHH, dự kiến bỏ khoảng 15 đến 20 tỷ đồng xây khách sạn 3 sao khoảng 52 phòng, cao 6 tầng và 1 tum (tum chiếm 28% diện tích sàn mái), tổng chiều cao 22,5 m, trên thửa đất này.
+Anh V. có thửa đất ở đô thị 450 m² (mặt tiền 15 m, sâu 30 m) tại một phường ở Lào Cai, sổ đỏ đứng tên anh. Anh cùng mấy người bạn lập công ty TNHH, dự kiến bỏ khoảng 15 đến 20 tỷ đồng xây khách sạn 3 sao khoảng 52 phòng, cao 6 tầng và 1 tum (tum chiếm 28% diện tích sàn mái), tổng chiều cao 22,5 m, trên thửa đất này. Lượng nước thải sinh hoạt dự kiến khoảng 35 m³/ngày đêm.
 
 Anh hỏi: có phải đổi loại đất không, nên góp đất vào công ty, cho công ty thuê hay bán cho công ty, và thủ tục nộp ở đâu.
 
@@ -32,7 +32,7 @@ Anh hỏi: có phải đổi loại đất không, nên góp đất vào công t
 - **Luật Xây dựng số 135/2025/QH15**, khoản 1 Điều 53: UBND xã, phường cấp giấy phép xây dựng công trình cấp III, cấp IV.
 - **Thông tư 34/2026/TT-BXD** quy định chi tiết về cấp công trình xây dựng (hiệu lực 01/7/2026, thay thế Thông tư 06/2021/TT-BXD).
 - **Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ số 55/2024/QH15** (đã được sửa đổi, bổ sung); **Nghị định 105/2025/NĐ-CP**; **Nghị quyết 66.18/2026/NQ-CP** (bỏ thủ tục nghiệm thu, kiểm tra nghiệm thu PCCC của cơ quan Công an từ 01/7/2026 đến hết 28/02/2027).
-- **Luật Bảo vệ môi trường số 72/2020/QH14** (đã được sửa đổi, bổ sung), Điều 49: đăng ký môi trường; **Nghị định 131/2025/NĐ-CP**, Điều 26: thẩm quyền cấp giấy phép môi trường của Chủ tịch UBND cấp tỉnh.
+- **Luật Bảo vệ môi trường số 72/2020/QH14** (đã được sửa đổi, bổ sung), Điều 39 (đối tượng phải có giấy phép môi trường), Điều 49 (đăng ký môi trường); **Nghị định 08/2022/NĐ-CP**, khoản 5 Điều 74 (sửa đổi bởi Nghị định 05/2025/NĐ-CP): dự án nhóm III chỉ phát sinh nước thải sinh hoạt phải xử lý từ 20 m³/ngày trở lên thì phải có giấy phép môi trường; **Nghị định 131/2025/NĐ-CP**, Điều 26: thẩm quyền cấp giấy phép môi trường của Chủ tịch UBND cấp tỉnh.
 - **Nghị định 96/2016/NĐ-CP** về điều kiện an ninh, trật tự (sửa đổi, bổ sung bởi Nghị định 56/2023/NĐ-CP, Nghị định 58/2026/NĐ-CP, Nghị định 392/2026/NĐ-CP có hiệu lực từ 15/11/2026).
 - **Luật Du lịch 2017**, Điều 49 (điều kiện kinh doanh dịch vụ lưu trú du lịch) và Điều 50 (xếp hạng cơ sở lưu trú du lịch).
 
@@ -78,7 +78,7 @@ Với quy mô 15 đến 20 tỷ đồng, **nên đăng ký sang đất thương 
 | Thẩm định thiết kế về PCCC | Phòng Cảnh sát PCCC và CNCH, Công an tỉnh (một số trường hợp chủ đầu tư tự thẩm định theo Nghị định 347/2026/NĐ-CP) | Trước khi xin giấy phép xây dựng | Khách sạn 6 tầng, 52 phòng thuộc diện quản lý về PCCC |
 | Giấy phép xây dựng | UBND phường (khách sạn 6 tầng, cao 22,5 m là công trình cấp III) | Sau khi có kết quả thẩm định thiết kế PCCC, trước khi khởi công | Thời hạn giải quyết 10 ngày làm việc từ 01/7/2026; một số trường hợp được miễn giấy phép |
 | Nghiệm thu PCCC | Chủ đầu tư tự tổ chức, tự chịu trách nhiệm | Trước khi đón khách | Từ 01/7/2026 Công an không còn nghiệm thu, nhưng vẫn hậu kiểm định kỳ, đột xuất |
-| Đăng ký môi trường hoặc giấy phép môi trường | Đăng ký môi trường: UBND phường. Giấy phép môi trường (nếu thuộc diện): UBND tỉnh | Đăng ký trước khi vận hành; giấy phép phải có trước khi vận hành chính thức | Cụm từ "cam kết bảo vệ môi trường" đã bỏ, nay là đăng ký môi trường hoặc giấy phép môi trường tùy quy mô xả thải |
+| Giấy phép môi trường | Chủ tịch UBND tỉnh (hồ sơ qua Sở Nông nghiệp và Môi trường), trừ khi UBND tỉnh có văn bản ủy quyền cho cấp khác | Trước khi vận hành thử nghiệm công trình xử lý nước thải | Nước thải 35 m³/ngày đêm vượt ngưỡng 20 m³/ngày nên không chỉ đăng ký môi trường ở phường. Cụm từ "cam kết bảo vệ môi trường" không còn dùng |
 | Giấy chứng nhận đủ điều kiện về an ninh, trật tự | Công an cấp xã hoặc Công an tỉnh theo phân cấp tại Nghị định 96/2016/NĐ-CP (đã sửa đổi); nên hỏi trước tại Công an phường | Sau khi có đăng ký ngành nghề lưu trú, trước khi đón khách | Thời hạn cấp mới không quá 4 ngày làm việc kể từ khi nhận đủ hồ sơ |
 | Công nhận hạng 3 sao (tự nguyện) | Sở Văn hóa, Thể thao và Du lịch tỉnh | Sau khi khách sạn đã hoạt động, có nhu cầu xếp hạng | Thẩm định thực tế theo tiêu chuẩn quốc gia về xếp hạng khách sạn |
 
@@ -103,7 +103,10 @@ Với quy mô 15 đến 20 tỷ đồng, **nên đăng ký sang đất thương 
 
 ### 3. Môi trường
 
-- Khách sạn phát sinh nước thải sinh hoạt, rác thải. Tùy lưu lượng nước thải, dự án thuộc diện **đăng ký môi trường tại UBND phường** hoặc **giấy phép môi trường tại UBND tỉnh**.
+- **Ngưỡng phân biệt:** dự án nhóm III chỉ phát sinh nước thải sinh hoạt phải xử lý trước khi xả ra môi trường từ **20 m³/ngày trở lên** thì phải có giấy phép môi trường. Dưới ngưỡng này mới thuộc diện đăng ký môi trường tại UBND xã, phường.
+- **Khách sạn trong tình huống:** nước thải khoảng 35 m³/ngày đêm, vượt ngưỡng 20 m³/ngày, nên **phải xin giấy phép môi trường**. Thẩm quyền cấp là Chủ tịch UBND tỉnh (Điều 26 Nghị định 131/2025/NĐ-CP), hồ sơ nộp qua Sở Nông nghiệp và Môi trường. Một số tỉnh đã ủy quyền cho cấp xã cấp giấy phép môi trường với dự án nhỏ, nên hỏi trước xem Lào Cai có văn bản ủy quyền hay không.
+- **Trường hợp cần xác định lại:** nếu toàn bộ nước thải được đấu nối vào hệ thống thu gom, xử lý nước thải tập trung của đô thị, không tự xử lý rồi xả ra môi trường, thì thủ tục có thể khác. Nên hỏi Sở Nông nghiệp và Môi trường trước khi chốt thiết kế.
+- **Hồ sơ chính:** văn bản đề nghị cấp giấy phép; báo cáo đề xuất cấp giấy phép môi trường theo mẫu; bản vẽ hệ thống thu gom, xử lý nước thải.
 - Cần lắp đặt hệ thống xử lý nước thải, đấu nối thoát nước theo thiết kế; ký hợp đồng thu gom rác.
 
 ### 4. Giấy chứng nhận đủ điều kiện về an ninh, trật tự
