@@ -1,6 +1,6 @@
 ---
 title: "Có 450 m² đất ở đô thị đứng tên cá nhân, muốn công ty xây khách sạn 3 sao: làm thế nào cho đúng?"
-description: "Đất ở mặt tiền 15 m, sâu 30 m, chủ đất muốn đưa vào công ty để xây khách sạn 3 sao khoảng 52 phòng, vốn 15 đến 20 tỷ đồng. Bài viết chỉ ra 2 việc phải quyết trước: có đổi sang đất thương mại, dịch vụ không, và góp vốn, cho thuê hay bán cho công ty."
+description: "Chủ đất muốn đưa 450 m² đất ở vào công ty để xây khách sạn 3 sao khoảng 52 phòng, 6 tầng. Với quy mô này, các thủ tục chính đều làm tại phường. Bài viết chỉ rõ từng việc, ai giải quyết và cần lưu ý gì."
 date: 2026-11-27 07:40:00 +0700
 mang: "Dự án đầu tư"
 nhom: doanh-nghiep
@@ -9,43 +9,39 @@ can_cu_den_ngay: "27/11/2026"
 
 ## Tình huống thường gặp
 
-Anh V. có thửa đất ở đô thị 450 m² (mặt tiền 15 m, sâu 30 m) tại một phường ở Lào Cai, sổ đỏ đứng tên anh. Anh cùng mấy người bạn lập công ty TNHH, dự kiến bỏ khoảng 15 đến 20 tỷ đồng xây khách sạn 3 sao khoảng 52 phòng, cao 6 tầng và 1 tum (tum chiếm 28% diện tích sàn mái), tổng chiều cao 22,5 m, trên thửa đất này. Lượng nước thải sinh hoạt dự kiến khoảng 35 m³/ngày đêm.
+Anh V. có thửa đất ở đô thị 450 m² (mặt tiền 15 m, sâu 30 m) tại một phường ở Lào Cai, sổ đỏ đứng tên anh. Anh cùng mấy người bạn lập công ty TNHH, dự kiến xây khách sạn 3 sao khoảng 52 phòng, cao 6 tầng và 1 tum, tổng diện tích sàn dưới 3.000 m².
 
-Anh hỏi: có phải đổi loại đất không, nên góp đất vào công ty, cho công ty thuê hay bán cho công ty, và thủ tục nộp ở đâu.
+Anh hỏi: có phải đổi loại đất không, nên góp đất vào công ty, cho thuê hay bán cho công ty, và các thủ tục nộp ở đâu.
 
 *(Tình huống minh họa.)*
 
 ## Trả lời ngắn
 
-- **Đất ở đô thị phù hợp làm khách sạn, không phù hợp làm nhà xưởng.** Khu dân cư đô thị thường không cho phép xây nhà xưởng sản xuất.
-- **Chuyển từ đất ở sang đất thương mại, dịch vụ không phải xin phép** cơ quan nhà nước. Người sử dụng đất đăng ký biến động nếu có nhu cầu, nhưng vẫn phải phù hợp quy hoạch.
+- **Đổi từ đất ở sang đất thương mại, dịch vụ không phải xin phép**, chỉ cần đăng ký biến động và phải phù hợp quy hoạch.
 - **Đưa đất vào công ty có 3 cách:** góp vốn, cho thuê, chuyển nhượng.
-- **Công ty vốn trong nước không phải xin Giấy chứng nhận đăng ký đầu tư.** Dự án dùng đất sẵn có của chủ đất, không xin Nhà nước cho thuê đất, nên thủ tục đơn giản hơn nhiều so với dự án phải xin đất.
+- **Công ty vốn trong nước không phải xin Giấy chứng nhận đăng ký đầu tư**, không phải xin Nhà nước cho thuê đất.
+- **Với quy mô 6 tầng, dưới 3.000 m² sàn, các thủ tục chính đều làm ở phường:** giấy phép xây dựng, đăng ký môi trường, giấy chứng nhận an ninh, trật tự, quản lý phòng cháy chữa cháy. Riêng công nhận hạng 3 sao là thủ tục tự nguyện, do Sở Văn hóa, Thể thao và Du lịch giải quyết.
 
 ## Căn cứ pháp luật đang áp dụng
 
-- **Luật Đất đai số 31/2024/QH15** (đã được sửa đổi, bổ sung):
-  - Điều 121: các trường hợp chuyển mục đích phải xin phép. Chuyển đất ở sang đất thương mại, dịch vụ không thuộc các trường hợp này.
-  - Điều 133: đăng ký biến động khi chuyển mục đích.
-  - Điểm a khoản 3 Điều 27: hợp đồng chuyển nhượng, góp vốn bằng quyền sử dụng đất phải công chứng hoặc chứng thực.
+- **Luật Đất đai số 31/2024/QH15** (đã được sửa đổi, bổ sung): Điều 121 (chuyển đất ở sang đất thương mại, dịch vụ không thuộc trường hợp phải xin phép), Điều 133 (đăng ký biến động), điểm a khoản 3 Điều 27 (hợp đồng chuyển nhượng, góp vốn bằng quyền sử dụng đất phải công chứng hoặc chứng thực).
 - **Luật Đầu tư số 143/2025/QH15**, Điều 26: dự án của nhà đầu tư trong nước không phải cấp Giấy chứng nhận đăng ký đầu tư.
-- **Luật Xây dựng số 135/2025/QH15**, khoản 1 Điều 53: UBND xã, phường cấp giấy phép xây dựng công trình cấp III, cấp IV.
-- **Thông tư 34/2026/TT-BXD** quy định chi tiết về cấp công trình xây dựng (hiệu lực 01/7/2026, thay thế Thông tư 06/2021/TT-BXD).
-- **Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ số 55/2024/QH15** (đã được sửa đổi, bổ sung); **Nghị định 105/2025/NĐ-CP**; **Nghị quyết 66.18/2026/NQ-CP** (bỏ thủ tục nghiệm thu, kiểm tra nghiệm thu PCCC của cơ quan Công an từ 01/7/2026 đến hết 28/02/2027).
-- **Luật Bảo vệ môi trường số 72/2020/QH14** (đã được sửa đổi, bổ sung), Điều 39 (đối tượng phải có giấy phép môi trường), Điều 49 (đăng ký môi trường); **Nghị định 08/2022/NĐ-CP**, khoản 5 Điều 74 (sửa đổi bởi Nghị định 05/2025/NĐ-CP): dự án nhóm III chỉ phát sinh nước thải sinh hoạt phải xử lý từ 20 m³/ngày trở lên thì phải có giấy phép môi trường; **Nghị định 131/2025/NĐ-CP**, Điều 26: thẩm quyền cấp giấy phép môi trường của Chủ tịch UBND cấp tỉnh.
-- **Nghị định 96/2016/NĐ-CP** về điều kiện an ninh, trật tự (sửa đổi, bổ sung bởi Nghị định 56/2023/NĐ-CP, Nghị định 58/2026/NĐ-CP, Nghị định 392/2026/NĐ-CP có hiệu lực từ 15/11/2026).
-- **Luật Du lịch 2017**, Điều 49 (điều kiện kinh doanh dịch vụ lưu trú du lịch) và Điều 50 (xếp hạng cơ sở lưu trú du lịch).
+- **Luật Xây dựng số 135/2025/QH15**, khoản 1 Điều 53: UBND xã, phường cấp giấy phép xây dựng công trình cấp III, cấp IV. **Thông tư 34/2026/TT-BXD** về cấp công trình xây dựng (hiệu lực 01/7/2026).
+- **Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ số 55/2024/QH15** (đã được sửa đổi, bổ sung); **Nghị định 105/2025/NĐ-CP**, Phụ lục III mục 7.1: khách sạn cao từ 7 tầng trở lên hoặc có tổng diện tích sàn từ 3.000 m² trở lên mới thuộc diện thẩm định thiết kế về PCCC.
+- **Luật Bảo vệ môi trường số 72/2020/QH14** (đã được sửa đổi, bổ sung), Điều 49: đăng ký môi trường tại UBND cấp xã; **Nghị quyết 66.19/2026/NQ-CP** ngày 18/5/2026 về cắt giảm, đơn giản hóa thủ tục hành chính lĩnh vực nông nghiệp và môi trường (Phụ lục IX): dự án chỉ phát sinh nước thải sinh hoạt thực hiện đăng ký môi trường, không phải xin giấy phép môi trường.
+- **Nghị định 96/2016/NĐ-CP** về điều kiện an ninh, trật tự (sửa đổi, bổ sung bởi Nghị định 56/2023/NĐ-CP, Nghị định 58/2026/NĐ-CP, Nghị định 392/2026/NĐ-CP).
+- **Luật Du lịch 2017**, Điều 49 (điều kiện kinh doanh dịch vụ lưu trú du lịch), Điều 50 (xếp hạng cơ sở lưu trú du lịch).
 
 ## Việc thứ nhất: giữ đất ở hay đổi sang đất thương mại, dịch vụ
 
 | | Giữ nguyên đất ở | Đăng ký sang đất thương mại, dịch vụ |
 |---|---|---|
-| Thủ tục đất | Không phải làm | Không phải xin phép; đăng ký biến động tại Văn phòng đăng ký đất đai, phải phù hợp quy hoạch |
+| Thủ tục đất | Không phải làm | Không phải xin phép; đăng ký biến động qua Trung tâm Phục vụ hành chính công phường |
 | Loại công trình xin phép | Nhà ở riêng lẻ, kinh doanh lưu trú quy mô nhỏ | Công trình dịch vụ lưu trú (khách sạn) |
-| Phù hợp khi | Nhà nghỉ, homestay vài tầng | Khách sạn 3 sao 52 phòng, 6 tầng và 1 tum |
-| Lưu ý | Xây khách sạn nhiều tầng dưới danh nghĩa nhà ở dễ bị vướng khi xin phép, thẩm định PCCC, vay vốn | Hỏi trước về thời hạn sử dụng đất và nghĩa vụ tài chính sau khi đăng ký; giá trị thế chấp có thể khác đất ở |
+| Phù hợp khi | Nhà nghỉ, homestay vài tầng | Khách sạn 3 sao 52 phòng |
+| Lưu ý | Xây khách sạn dưới danh nghĩa nhà ở dễ vướng khi xin phép, vay vốn | Hỏi trước về thời hạn sử dụng đất và nghĩa vụ tài chính sau khi đăng ký |
 
-Với quy mô 15 đến 20 tỷ đồng, **nên đăng ký sang đất thương mại, dịch vụ** để giấy phép xây dựng, thiết kế PCCC và hồ sơ vay vốn thống nhất với nhau. Nên để anh V. tự đứng tên đăng ký trước khi đưa đất vào công ty.
+**Nên đăng ký sang đất thương mại, dịch vụ** để giấy phép xây dựng và hồ sơ vay vốn thống nhất với công năng khách sạn. Nên để anh V. tự đứng tên đăng ký trước khi đưa đất vào công ty.
 
 ## Việc thứ hai: góp vốn, cho thuê hay bán cho công ty
 
@@ -57,86 +53,79 @@ Với quy mô 15 đến 20 tỷ đồng, **nên đăng ký sang đất thương 
 | Công ty thế chấp đất vay ngân hàng | Được | Không (chỉ có thể thế chấp công trình, tùy ngân hàng) | Được |
 | Phù hợp khi | Anh V. gắn bó lâu dài với công ty | Anh V. muốn giữ đất | Anh V. cần tiền, không tham gia kinh doanh |
 
-**Lưu ý khi góp đất:** các thành viên phải thống nhất giá trị thửa đất bằng văn bản, lập biên bản giao nhận tài sản góp vốn, rồi đăng ký sang tên công ty. Thiếu bước này là nguồn tranh chấp phổ biến nhất giữa các thành viên.
+**Lưu ý khi góp đất:** các thành viên phải thống nhất giá trị thửa đất bằng văn bản, lập biên bản giao nhận tài sản góp vốn, rồi đăng ký sang tên công ty.
 
 ## Các bước thực hiện
 
-- **Bước 1. Kiểm tra quy hoạch và chỉ tiêu xây dựng.** Xin thông tin quy hoạch tại UBND phường: thửa đất có được làm khách sạn không, được xây tối đa bao nhiêu tầng, mật độ, khoảng lùi. Với thửa đất 450 m², đây là yếu tố quyết định quy mô khách sạn.
-- **Bước 2. Đăng ký sang đất thương mại, dịch vụ** (nếu chọn) tại Văn phòng đăng ký đất đai, nộp qua Trung tâm Phục vụ hành chính công.
+- **Bước 1. Kiểm tra quy hoạch** tại UBND phường: thửa đất có được làm khách sạn không, được xây tối đa bao nhiêu tầng, mật độ, khoảng lùi.
+- **Bước 2. Đăng ký sang đất thương mại, dịch vụ** (nếu chọn).
 - **Bước 3. Ký hợp đồng góp vốn, thuê hoặc chuyển nhượng** với công ty, công chứng và đăng ký sang tên (nếu góp vốn hoặc bán). Đất là tài sản chung vợ chồng thì cả hai cùng ký.
-- **Bước 4. Thiết kế theo tiêu chuẩn 3 sao ngay từ đầu.** Diện tích phòng, sảnh, nhà hàng, thang máy, chỗ đỗ xe phải đáp ứng tiêu chuẩn quốc gia về xếp hạng khách sạn hiện hành. Thiết kế thiếu tiêu chí thì sau khi xây xong rất khó sửa để được công nhận 3 sao.
-- **Bước 5. Thẩm định thiết kế về PCCC** trước khi xin giấy phép xây dựng (xem chi tiết ở phần điều kiện hoạt động bên dưới).
-- **Bước 6. Xin giấy phép xây dựng** (xem chi tiết ở phần điều kiện hoạt động bên dưới).
-- **Bước 7. Xác định thủ tục môi trường** ngay từ khi thiết kế, vì hệ thống xử lý nước thải phải có trong bản vẽ.
-- **Bước 8. Xây dựng, chủ đầu tư tự tổ chức nghiệm thu PCCC và nghiệm thu công trình.**
-- **Bước 9. Hoàn tất điều kiện để đi vào hoạt động** theo bảng dưới đây.
+- **Bước 4. Thiết kế theo tiêu chuẩn 3 sao và quy chuẩn PCCC ngay từ đầu**, giữ quy mô dưới 7 tầng và dưới 3.000 m² sàn.
+- **Bước 5. Xin giấy phép xây dựng** tại UBND phường.
+- **Bước 6. Xây dựng, chủ đầu tư tự nghiệm thu công trình và hệ thống PCCC.**
+- **Bước 7. Đăng ký môi trường, xin giấy chứng nhận an ninh, trật tự, rồi đón khách.**
+- **Bước 8. Đề nghị công nhận hạng 3 sao** (nếu muốn).
 
-## Giấy phép xây dựng và điều kiện để khách sạn đi vào hoạt động: ai cấp, làm thế nào
+## Các thủ tục để khách sạn đi vào hoạt động
 
-| Điều kiện | Cơ quan giải quyết | Thời điểm làm | Ghi chú |
-|---|---|---|---|
-| Thẩm định thiết kế về PCCC | Phòng Cảnh sát PCCC và CNCH, Công an tỉnh (một số trường hợp chủ đầu tư tự thẩm định theo Nghị định 347/2026/NĐ-CP) | Trước khi xin giấy phép xây dựng | Khách sạn 6 tầng, 52 phòng thuộc diện quản lý về PCCC |
-| Giấy phép xây dựng | UBND phường (khách sạn 6 tầng, cao 22,5 m là công trình cấp III) | Sau khi có kết quả thẩm định thiết kế PCCC, trước khi khởi công | Thời hạn giải quyết 10 ngày làm việc từ 01/7/2026; một số trường hợp được miễn giấy phép |
-| Nghiệm thu PCCC | Chủ đầu tư tự tổ chức, tự chịu trách nhiệm | Trước khi đón khách | Từ 01/7/2026 Công an không còn nghiệm thu, nhưng vẫn hậu kiểm định kỳ, đột xuất |
-| Giấy phép môi trường | Chủ tịch UBND tỉnh (hồ sơ qua Sở Nông nghiệp và Môi trường), trừ khi UBND tỉnh có văn bản ủy quyền cho cấp khác | Trước khi vận hành thử nghiệm công trình xử lý nước thải | Nước thải 35 m³/ngày đêm vượt ngưỡng 20 m³/ngày nên không chỉ đăng ký môi trường ở phường. Cụm từ "cam kết bảo vệ môi trường" không còn dùng |
-| Giấy chứng nhận đủ điều kiện về an ninh, trật tự | Công an cấp xã hoặc Công an tỉnh theo phân cấp tại Nghị định 96/2016/NĐ-CP (đã sửa đổi); nên hỏi trước tại Công an phường | Sau khi có đăng ký ngành nghề lưu trú, trước khi đón khách | Thời hạn cấp mới không quá 4 ngày làm việc kể từ khi nhận đủ hồ sơ |
-| Công nhận hạng 3 sao (tự nguyện) | Sở Văn hóa, Thể thao và Du lịch tỉnh | Sau khi khách sạn đã hoạt động, có nhu cầu xếp hạng | Thẩm định thực tế theo tiêu chuẩn quốc gia về xếp hạng khách sạn |
+| Thủ tục | Ai giải quyết | Thời điểm |
+|---|---|---|
+| Giấy phép xây dựng | UBND phường | Trước khi khởi công |
+| Phòng cháy chữa cháy | Không phải thẩm định thiết kế tại Công an; chủ đầu tư tự nghiệm thu; cơ quan Công an phụ trách địa bàn quản lý, kiểm tra | Trong quá trình thiết kế, thi công và khi hoạt động |
+| Đăng ký môi trường | UBND phường | Trước khi vận hành |
+| Giấy chứng nhận đủ điều kiện về an ninh, trật tự | Công an phường (theo phân cấp) | Trước khi đón khách |
+| Công nhận hạng 3 sao (tự nguyện) | Sở Văn hóa, Thể thao và Du lịch | Sau khi đã hoạt động |
 
-### 1. Phòng cháy chữa cháy
+### 1. Giấy phép xây dựng
 
-- **Hồ sơ thẩm định thiết kế:** văn bản đề nghị theo mẫu của Nghị định 105/2025/NĐ-CP, giấy tờ hợp pháp về đất, hồ sơ thiết kế phần PCCC (hệ thống báo cháy, chữa cháy, thoát nạn, ngăn cháy).
-- **Trước khi đón khách:** chủ đầu tư tự tổ chức nghiệm thu, lập biên bản, lưu hồ sơ. Lập phương án chữa cháy của cơ sở, hồ sơ quản lý PCCC và huấn luyện nhân viên theo quy định.
-- **Lưu ý:** việc bỏ thủ tục nghiệm thu không làm giảm yêu cầu kỹ thuật. Thiếu điều kiện PCCC khi bị hậu kiểm, khách sạn có thể bị đình chỉ hoạt động.
+- **Cấp công trình:** theo Thông tư 34/2026/TT-BXD, nhà cao trên 6 m đến 28 m, từ 2 đến 7 tầng, tổng diện tích sàn từ 1.000 m² đến 10.000 m² là công trình cấp III. Khách sạn cao khoảng 22,5 m, 6 tầng là cấp III. Tầng tum có diện tích không vượt quá 30% diện tích sàn mái thì không tính vào số tầng.
+- **Ai cấp:** UBND phường nơi có công trình.
+- **Hồ sơ chính:** đơn đề nghị; giấy tờ hợp pháp về đất (sổ đỏ, hoặc hợp đồng thuê đất có công chứng kèm văn bản đồng ý cho xây dựng của chủ đất); bản vẽ thiết kế (mặt bằng, mặt cắt, mặt đứng, móng, đấu nối hạ tầng).
+- **Thời hạn:** 10 ngày làm việc kể từ khi nhận đủ hồ sơ hợp lệ, theo Nghị quyết 66.18/2026/NQ-CP.
+- **Lưu ý:** xin phép là "nhà ở riêng lẻ" rồi xây khách sạn là sai mục đích công trình, có thể bị xử phạt.
 
-### 2. Giấy phép xây dựng
+### 2. Phòng cháy chữa cháy
 
-- **Xác định cấp công trình trước.** Theo Phụ lục II Thông tư 34/2026/TT-BXD, nhà có chiều cao trên 6 m đến 28 m, số tầng cao từ 2 đến 7 tầng, tổng diện tích sàn từ 1.000 m² đến 10.000 m² thuộc cấp III. Khách sạn trong tình huống:
-  - Chiều cao 22,5 m: thuộc cấp III.
-  - 6 tầng; tum chiếm 28% diện tích sàn mái, dưới ngưỡng 30% nên không tính vào số tầng cao: thuộc cấp III.
-  - Tổng diện tích sàn ước khoảng 2.000 đến 2.300 m²: thuộc cấp III.
-  - Kết luận: khách sạn là **công trình cấp III**. Nếu thiết kế điều chỉnh làm tum vượt 30% diện tích sàn mái, hoặc nâng chiều cao, số tầng, cần xác định lại.
-- **Ai cấp:** với công trình cấp III, **UBND phường nơi có công trình** cấp giấy phép xây dựng (khoản 1 Điều 53 Luật Xây dựng 2025). Hồ sơ nộp qua Trung tâm Phục vụ hành chính công phường hoặc Cổng dịch vụ công.
-- **Hồ sơ chính:** đơn đề nghị cấp giấy phép xây dựng; giấy tờ hợp pháp về đất (sổ đỏ, hoặc hợp đồng thuê đất có công chứng nếu công ty thuê đất của chủ đất, kèm văn bản đồng ý cho xây dựng); bản vẽ thiết kế (mặt bằng, mặt cắt, mặt đứng, móng, đấu nối hạ tầng); kết quả thẩm định thiết kế về PCCC; văn bản thẩm định thiết kế của cơ quan chuyên môn về xây dựng nếu thuộc diện phải thẩm định.
-- **Thời hạn:** theo Nghị quyết 66.18/2026/NQ-CP, thời hạn cấp giấy phép xây dựng rút từ 20 ngày xuống còn 10 ngày làm việc kể từ khi nhận đủ hồ sơ hợp lệ.
-- **Trường hợp miễn phép:** Luật Xây dựng 2025 mở rộng các trường hợp được miễn giấy phép xây dựng, trong đó có công trình thuộc dự án đã được thẩm định báo cáo nghiên cứu khả thi. Chủ đầu tư nên hỏi trước UBND phường xem khách sạn của mình có thuộc diện miễn không. Được miễn phép vẫn phải xây đúng quy hoạch, thiết kế được duyệt và thông báo khởi công.
-- **Lưu ý:** xin phép là "nhà ở riêng lẻ" rồi xây khách sạn là sai mục đích công trình, có thể bị xử phạt và gặp khó khi cấp giấy chứng nhận an ninh, trật tự, xếp hạng sao.
+- **Không thuộc diện thẩm định thiết kế:** theo Phụ lục III Nghị định 105/2025/NĐ-CP, khách sạn chỉ phải thẩm định thiết kế về PCCC khi cao từ 7 tầng trở lên hoặc có tổng diện tích sàn từ 3.000 m² trở lên. Khách sạn 6 tầng, dưới 3.000 m² sàn không thuộc diện này.
+- **Vẫn phải bảo đảm đủ điều kiện:** thiết kế, thi công đúng quy chuẩn về PCCC (lối thoát nạn, báo cháy, chữa cháy, ngăn cháy); chủ đầu tư tự nghiệm thu, lưu hồ sơ.
+- **Khi hoạt động:** lập hồ sơ quản lý, phương án chữa cháy của cơ sở, huấn luyện nhân viên. Cơ quan Công an phụ trách PCCC trên địa bàn sẽ kiểm tra định kỳ, đột xuất. Thiếu điều kiện PCCC thì có thể bị đình chỉ hoạt động.
+- **Lưu ý:** nếu sau này nâng lên 7 tầng hoặc mở rộng từ 3.000 m² sàn trở lên thì phải thẩm định thiết kế về PCCC.
 
-### 3. Môi trường
+### 3. Đăng ký môi trường
 
-- **Ngưỡng phân biệt:** dự án nhóm III chỉ phát sinh nước thải sinh hoạt phải xử lý trước khi xả ra môi trường từ **20 m³/ngày trở lên** thì phải có giấy phép môi trường. Dưới ngưỡng này mới thuộc diện đăng ký môi trường tại UBND xã, phường.
-- **Khách sạn trong tình huống:** nước thải khoảng 35 m³/ngày đêm, vượt ngưỡng 20 m³/ngày, nên **phải xin giấy phép môi trường**. Thẩm quyền cấp là Chủ tịch UBND tỉnh (Điều 26 Nghị định 131/2025/NĐ-CP), hồ sơ nộp qua Sở Nông nghiệp và Môi trường. Một số tỉnh đã ủy quyền cho cấp xã cấp giấy phép môi trường với dự án nhỏ, nên hỏi trước xem Lào Cai có văn bản ủy quyền hay không.
-- **Trường hợp cần xác định lại:** nếu toàn bộ nước thải được đấu nối vào hệ thống thu gom, xử lý nước thải tập trung của đô thị, không tự xử lý rồi xả ra môi trường, thì thủ tục có thể khác. Nên hỏi Sở Nông nghiệp và Môi trường trước khi chốt thiết kế.
-- **Hồ sơ chính:** văn bản đề nghị cấp giấy phép; báo cáo đề xuất cấp giấy phép môi trường theo mẫu; bản vẽ hệ thống thu gom, xử lý nước thải.
-- Cần lắp đặt hệ thống xử lý nước thải, đấu nối thoát nước theo thiết kế; ký hợp đồng thu gom rác.
+- Khách sạn chỉ phát sinh **nước thải sinh hoạt dưới 50 m³/ngày đêm** thì **đăng ký môi trường tại UBND phường**, không phải xin giấy phép môi trường.
+- Theo Nghị quyết 66.19/2026/NQ-CP, dự án chỉ phát sinh nước thải sinh hoạt từ 50 m³/ngày trở lên cũng chỉ thực hiện đăng ký môi trường, nhưng nộp tại UBND cấp tỉnh.
+- Cần tính lưu lượng nước thải ngay từ khâu thiết kế, lắp đặt hệ thống xử lý nước thải đạt quy chuẩn, đấu nối thoát nước, ký hợp đồng thu gom rác.
 
 ### 4. Giấy chứng nhận đủ điều kiện về an ninh, trật tự
 
-- **Hồ sơ:** văn bản đề nghị theo mẫu; bản sao giấy chứng nhận đăng ký doanh nghiệp có ngành nghề lưu trú; tài liệu chứng minh đáp ứng điều kiện PCCC; bản khai lý lịch hoặc thông tin của người chịu trách nhiệm về an ninh, trật tự.
-- **Sau khi được cấp:** thông báo lưu trú cho khách đúng quy định, kiểm tra giấy tờ tùy thân của khách theo danh mục tại Nghị định 392/2026/NĐ-CP.
+- **Nơi nộp:** Công an phường nơi đặt khách sạn (theo phân cấp tại Nghị định 96/2016/NĐ-CP đã sửa đổi).
+- **Hồ sơ:** văn bản đề nghị theo mẫu; bản sao giấy chứng nhận đăng ký doanh nghiệp có ngành nghề lưu trú; tài liệu về bảo đảm điều kiện PCCC; thông tin của người chịu trách nhiệm về an ninh, trật tự.
+- **Thời hạn:** không quá 4 ngày làm việc kể từ khi nhận đủ hồ sơ.
+- **Khi hoạt động:** kiểm tra giấy tờ tùy thân của khách và thông báo lưu trú đúng quy định.
 
 ### 5. Công nhận hạng 3 sao (nếu muốn)
 
-- Xếp hạng là **tự nguyện**. Khách sạn chưa xếp hạng vẫn được kinh doanh nếu đủ điều kiện lưu trú du lịch theo Điều 49 Luật Du lịch 2017.
-- **Nơi nộp:** Sở Văn hóa, Thể thao và Du lịch tỉnh (công nhận hạng 1 sao, 2 sao, 3 sao).
-- **Hồ sơ:** đơn đề nghị công nhận hạng; bản tự đánh giá theo tiêu chuẩn xếp hạng; danh sách người quản lý, nhân viên kèm chứng chỉ nghiệp vụ theo yêu cầu của hạng 3 sao. Sở thành lập đoàn thẩm định thực tế tại khách sạn trước khi ra quyết định.
-- **Bổ sung khác nếu có nhà hàng:** điều kiện an toàn thực phẩm đối với dịch vụ ăn uống.
+- Xếp hạng là **tự nguyện**. Không xếp hạng vẫn được kinh doanh nếu đủ điều kiện lưu trú du lịch theo Điều 49 Luật Du lịch 2017.
+- **Nơi nộp:** Sở Văn hóa, Thể thao và Du lịch (công nhận hạng 1 sao, 2 sao, 3 sao).
+- **Hồ sơ:** đơn đề nghị; bản tự đánh giá theo tiêu chuẩn xếp hạng; danh sách người quản lý, nhân viên kèm chứng chỉ nghiệp vụ. Sở thẩm định thực tế tại khách sạn trước khi ra quyết định.
 
 ## Rủi ro thường gặp
 
-- **Không xin thông tin quy hoạch trước khi thiết kế.** Thiết kế 6 tầng và 1 tum nhưng quy hoạch chỉ cho phép 5 tầng thì phải làm lại toàn bộ, số phòng giảm, phương án kinh doanh thay đổi.
-- **Xây khách sạn nhưng xin phép là nhà ở**, rồi khó nghiệm thu PCCC, khó vay vốn, dễ bị xử phạt.
-- **Công ty thuê đất bằng giấy tay, thời hạn ngắn** mà bỏ hàng chục tỷ xây dựng. Rủi ro rất lớn khi chủ đất đổi ý, qua đời hoặc phát sinh tranh chấp thừa kế.
+- **Không xin thông tin quy hoạch trước khi thiết kế.** Quy hoạch chỉ cho 5 tầng mà thiết kế 6 tầng thì phải làm lại.
+- **Nâng quy mô trong lúc thi công** lên 7 tầng hoặc từ 3.000 m² sàn trở lên mà không làm lại thủ tục PCCC, giấy phép xây dựng; khi đó nước thải cũng có thể vượt 50 m³/ngày đêm và thủ tục môi trường chuyển lên tỉnh.
+- **Công ty thuê đất bằng giấy tay, thời hạn ngắn** mà bỏ hàng chục tỷ xây dựng.
 - **Nhờ người khác đứng tên vốn góp.** Nghị định 296/2026/NĐ-CP đã cấm đứng tên góp vốn thay.
 
 ## Lưu ý thay đổi sắp tới
 
-Luật Đất đai (sửa đổi) đã được Quốc hội thông qua ngày 21/11/2026, có hiệu lực từ 01/7/2027. Quy định về chuyển mục đích sử dụng đất có thể được điều chỉnh. Nghị quyết 59/2026/QH16 về ưu đãi dự án du lịch áp dụng từ 01/01/2027, chủ đầu tư khách sạn nên xem mình có thuộc diện hưởng ưu đãi không.
+Nghị quyết 66.18/2026/NQ-CP (bỏ thủ tục nghiệm thu PCCC của cơ quan Công an, rút ngắn thời hạn cấp giấy phép xây dựng) áp dụng đến hết 28/02/2027; quy định đơn giản hóa thủ tục môi trường tại Nghị quyết 66.19/2026/NQ-CP cũng cần theo dõi thời hạn áp dụng. Luật Đất đai (sửa đổi) có hiệu lực từ 01/7/2027. Nghị quyết 59/2026/QH16 về ưu đãi dự án du lịch áp dụng từ 01/01/2027.
 
 ## Nên làm gì ngay bây giờ
 
 1. Xin thông tin quy hoạch của thửa đất tại UBND phường.
 2. Thống nhất trong công ty: góp đất, cho thuê hay bán, giá trị bao nhiêu.
-3. Chọn đơn vị thiết kế có kinh nghiệm thiết kế khách sạn 3 sao và PCCC.
+3. Yêu cầu đơn vị thiết kế giữ quy mô dưới 7 tầng, dưới 3.000 m² sàn và tính trước lưu lượng nước thải (dưới 50 m³/ngày đêm).
 
 Mỗi thửa đất có quy hoạch và điều kiện khác nhau. Bài viết giúp Quý khách định hướng, không thay cho việc rà soát hồ sơ cụ thể và không bảo đảm kết quả chấp thuận của cơ quan nhà nước.
 
