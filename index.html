@@ -621,8 +621,8 @@
         <div class="mt-10 grid gap-6 md:grid-cols-3">
           {% for bai in site.posts limit: 3 %}
           <a href="{{ bai.url }}" class="group flex flex-col bg-white p-6 text-navy-700 transition hover:-translate-y-0.5 hover:shadow-xl">
-            <p class="text-xs font-semibold uppercase tracking-wider text-gold-600">{{ bai.mang }}</p>
-            <h3 class="mt-3 font-display text-xl font-bold leading-snug text-navy-900 group-hover:text-gold-600">{{ bai.title }}</h3>
+            <p class="text-sm font-semibold uppercase tracking-wider text-gold-600">{{ bai.mang }}</p>
+            <h3 class="mt-3 font-display text-2xl font-bold leading-snug text-navy-900 group-hover:text-gold-600">{{ bai.title }}</h3>
             <p class="mt-3 flex-1 text-[0.95rem] leading-relaxed">{{ bai.description }}</p>
             <p class="mt-5 flex items-center justify-between text-sm text-slate-500">
               <span>{{ bai.date | date: "%d/%m/%Y" }}</span>
